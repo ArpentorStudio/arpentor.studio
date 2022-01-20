@@ -1,0 +1,23 @@
+<header>
+    <nav>
+        <h1>
+            <a href="{{ "/" | relLangURL }}">
+                Arpentor Studio
+            </a>
+        </h1>
+        <ul class="languages">
+            {{ range .Translations }}
+            <li class="language-link">
+                <a href="{{ .Permalink }}">{{ .Language }}</a>
+            </li>
+            {{ end }}
+        </ul>
+        <ul class="main">
+            {{ range .Site.Menus.main }}
+            <li>
+                <a href="{{ .URL }}">{{ .Name }}</a>
+            </li>
+            {{ end }}
+        </ul>
+    </nav>
+</header>

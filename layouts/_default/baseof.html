@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang='{{ .Site.Language.Lang }}'>
+<head>
+    <title>{{ .Title }} | {{ .Site.Title }}</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0, shrink-to-fit=no"
+    >
+    <meta name="description" content="{{ .Description }}">
+    <meta name="author" content="Arpentor Studio">
+    {{ hugo.Generator }}
+    <link rel="stylesheet" href="{{ "css/reset.css" | relURL }}">
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+    <link
+        href="/blog/feed/atom"
+        rel="alternate"
+        type="application/atom+xml"
+        title="{{ .Site.Title }}"
+    >
+    <link rel="icon" type="image/svg+xml" href="{{ "img/icons/home.svg" | relURL }}">
+</head>
+
+<body>
+    {{ partial "navigation.html" . }}
+
+    {{ block "main" . }}
+    {{ end }}
+
+    {{ partial "footer.html" . }}
+</body>
+</html>

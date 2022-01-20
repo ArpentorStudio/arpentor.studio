@@ -1,0 +1,11 @@
+baseURL = 'https://arpentor.studio/'
+languageCode = 'en-us'
+title = 'Arpentor Studio'
+
+defaultContentLanguage = "en"
+
+[languages]
+    [languages.en]
+        weight = 1
+    [languages.fr]
+        weight = 2
