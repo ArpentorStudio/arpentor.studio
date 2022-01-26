@@ -1,0 +1,305 @@
+@font-face {
+    font-family: 'TrendSansOne';
+    src: url('../font/TrendSansOne.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Louis George Cafe';
+    src: url('../font/Louis George Cafe.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Louis George Cafe';
+    src: url('../font/Louis George Cafe Bold.ttf');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Roboto;
+    src: url('../font/Roboto-Bold.ttf');
+    font-weight: bold;
+    font-style: normal;
+}
+
+/* Variables */
+:root {
+    --color-background: hsl(24, 10%, 9%);
+    --color-content-background: hsl(22, 18%, 8%);
+    --color-text-default: hsl(28, 15%, 73%);
+    --color-link-default: hsl(28, 15%, 73%);
+    --color-link-focus: hsl(0, 100%, 100%);
+    --color-box-border: hsl(0, 0%, 15%);
+}
+
+/* Generic Theming */
+*, *::after, *::before {
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+}
+
+body {
+    align-items: center;
+    background: var(--color-background);
+    background-image: url(../img/background.png);
+    color: var(--color-text-default);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: 'Louis George Cafe', sans-serif;
+    line-height: 1.5;
+    min-height: 100vh;
+}
+
+main,
+body > header > div,
+body > footer > div {
+    max-width: 70rem;
+    padding: 0 1rem;
+    width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    clear: both;
+    font-family: Roboto, 'Trebuchet MS', Helvetica, sans-serif;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.4em;
+}
+
+h3,
+h4,
+h5,
+h6 {
+    margin-bottom: 0.2em;
+}
+
+h1 {
+    font-size: 3rem;
+}
+h2 {
+    font-size: 2rem;
+}
+h3 {
+    font-size: 1.6rem;
+}
+h4 {
+    font-size: 1.4rem;
+}
+h5 {
+    font-size: 1.2rem;
+}
+h6 {
+    font-size: 1rem;
+}
+
+a,
+a:visited,
+a:active {
+    color: var(--color-link-default);
+    text-decoration: none;
+}
+a:hover,
+a:focus {
+    color: var(--color-link-focus);
+}
+
+ul,
+p {
+    margin-bottom: 0.2em;
+}
+
+p img {
+    max-width: 100%;
+}
+
+p img[src$='.svg'],
+ul li img {
+    width: 1.1em;
+    vertical-align: middle;
+}
+
+ul li {
+    margin-left: 2rem;
+}
+
+table {
+    width: 100%;
+}
+
+table tr td {
+    padding: 0.2rem 0.4rem;
+    width: 50%;
+}
+
+table tbody tr:nth-child(2n+1) {
+    background-color: hsl(0, 0%, 20%);
+}
+
+main h1 {
+    text-align: center;
+}
+
+/* Navigation */
+body > header {
+    background: var(--color-content-background);
+    border-bottom: 3px solid var(--color-box-border);
+    border-radius: 10px;
+    margin-bottom: 4em;
+    padding-top: 0.8em;
+    width: 100%;
+}
+
+body > header > div {
+    display: grid;
+    grid-template-columns: 7rem 1fr;
+    grid-column-gap: 2rem;
+    margin: auto;
+}
+
+body > header > div > a {
+    grid-row: 1 / span 2;
+}
+
+body > header hgroup {
+    align-items: center;
+    display: grid;
+    grid-template-columns: auto 1fr;
+}
+
+body > header hgroup h1 a {
+    font-family: TrendSansOne, 'Trebuchet MS', Helvetica, sans-serif;
+    font-size: 3.2rem;
+    margin-bottom: 0;
+    display: flex;
+    align-items: flex-start;
+}
+
+body > header hgroup h1 small {
+    font-size: 1.6rem;
+}
+
+body > header hgroup ul {
+    justify-content: flex-end;
+}
+
+body > header ul {
+    align-items: center;
+    display: flex;
+    list-style: none;
+}
+
+body > header ul li {
+    margin: 0;
+}
+
+body > header nav ul li a {
+    padding: 0.6rem 1.2rem;
+    font-size: 1.2rem;
+    font-family: Roboto;
+}
+
+body > header nav ul li a:hover,
+body > header nav ul li a:focus {
+    background: var(--color-box-border);
+    border-radius: 6px;
+}
+
+body > header nav ul li:first-of-type {
+    padding-left: 0;
+}
+
+body > header nav ul li:last-of-type {
+    padding-right: 0;
+}
+
+@media (max-width: 800px) {
+    body > header nav {
+        grid-template-columns: auto 1fr;
+        grid-template-rows: 1fr 0.8fr;
+    }
+
+    body > header nav h1 {
+        grid-column: 1 / span 2;
+    }
+
+    body > header nav ul.languages {
+        padding-left: 0;
+    }
+
+    body > header nav ul.main {
+    }
+}
+
+@media (max-width: 400px) {
+    body > header nav h1 {
+        font-size: 2.4rem;
+    }
+}
+
+/* Footer */
+body > footer {
+    background: var(--color-content-background);
+    border-top: 3px solid var(--color-box-border);
+    border-radius: 10px;
+    margin-top: 4em;
+    padding: 0.8em 0 0.4em 0;
+    width: 100%;
+}
+
+body > footer > div {
+    align-items: top;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 2em;
+    margin: auto;
+}
+
+body > footer section {
+    font-size: 0.9rem;
+}
+
+body > footer section h3 {
+    text-transform: uppercase;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+body > footer section ul + h3 {
+    margin-top: 2em;
+}
+
+body > footer section ul li {
+    list-style: none;
+    margin: 0;
+}
+
+body > footer section ul li {
+    border-bottom: 1px solid hsl(0, 0%, 15%);
+}
+
+/* Content */
+main > section {
+    background: var(--color-content-background);
+    border: 3px solid var(--color-box-border);
+    border-radius: 6px;
+    box-shadow: 0 0 3px var(--color-background) inset;
+    padding: 1.6rem 2rem;
+    margin-bottom: 2rem;
+}
+
+main > section:last-of-type {
+    margin-bottom: 0;
+}
