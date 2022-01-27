@@ -12,8 +12,8 @@
                 </a>
             </h1>
             <ul class="languages">
-                {{ range .Translations }}
-                <li class="language-link">
+                {{ range $.Site.Home.AllTranslations }}
+                <li class="language-link {{ if eq $.Site.Language .Language }}selected{{ end }}">
                     <a href="{{ .Permalink }}">{{ .Language }}</a>
                 </li>
                 {{ end }}
