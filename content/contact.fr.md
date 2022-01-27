@@ -26,5 +26,8 @@ Le meilleur moyen de nous contacter, c'est de nous envoyer un email !
 
 Vous pouvez également nous retrouver sur les réseaux sociaux :
 
-- Twitter [@ArpentorStudio](https://twitter.com/ArpentorStudio)
+- sur Twitter : [@ArpentorStudio](https://twitter.com/ArpentorStudio)
+- sur Instagram : [@arpentorstudio](https://www.instagram.com/arpentorstudio/)
+- sur YouTube : [ArpentorStudio](https://www.youtube.com/channel/UC5O0siehXk70Qp112X5M0Ag)
+
 </section>

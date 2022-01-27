@@ -1,6 +1,6 @@
 ---
 title: "Emploi"
-url: 'emploi'
+slug: 'emploi'
 menu:
     main:
         weight: 30

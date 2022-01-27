@@ -1,4 +1,4 @@
 ---
 title: "Games"
-url: "jeux"
+slug: "jeux"
 ---

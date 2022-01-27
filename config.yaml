@@ -1,0 +1,18 @@
+baseURL: 'https://arpentor.studio/'
+languageCode: 'en-us'
+title: 'Arpentor Studio'
+
+defaultContentLanguage: "en"
+
+languages:
+    en:
+        weight: 1
+        languageName: English
+    fr:
+        weight: 2
+        languageName: Français
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
