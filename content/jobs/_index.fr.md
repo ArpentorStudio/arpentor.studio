@@ -1,5 +1,6 @@
 ---
 title: "Emploi"
+url: 'emploi'
 slug: 'emploi'
 menu:
     main:
