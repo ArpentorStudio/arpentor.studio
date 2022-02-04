@@ -16,7 +16,7 @@ Le meilleur moyen de nous contacter, c'est de nous envoyer un email !
 | Pour… | Écrire à |
 | -- | -- |
 | une question liée aux médias | **press** chez **arpentor.studio** |
-| postuler à une offre ou une candidature spontanée | **jobs** chez **arpentor.studio** |
+| une candidature | **jobs** chez **arpentor.studio** |
 | tout autre sujet | **contact** chez **arpentor.studio** |
 </section>
 

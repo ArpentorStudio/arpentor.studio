@@ -17,7 +17,7 @@ The best way to reach us is to send us an email!
 | For… | Write to |
 | -- | -- |
 | a question regarding press | **press** at **arpentor.studio** |
-| a job offer or spontaneous application | **jobs** at **arpentor.studio** |
+| a job application | **jobs** at **arpentor.studio** |
 | any other topic | **contact** at **arpentor.studio** |
 </section>
 
