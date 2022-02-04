@@ -209,7 +209,11 @@ body > header ul.languages li a {
 
 body > header ul.languages li.selected a {
     font-weight: bold;
-    text-decoration: underline;
+}
+
+body > header ul.languages li.selected a::after,
+body > header ul.languages li.selected a::before {
+    content: '⋅';
 }
 
 body > header ul.languages li + li::before {
@@ -327,4 +331,9 @@ main > section {
 
 main > section:last-of-type {
     margin-bottom: 0;
+}
+
+.itch-io-widget {
+    padding-top: 2rem;
+    text-align: center;
 }
