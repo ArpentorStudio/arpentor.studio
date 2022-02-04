@@ -12,10 +12,24 @@
                 </a>
             </h1>
             <ul class="languages">
+                {{ $thisPage := . }}
+                {{ $translations := .Translations }}
                 {{ range $.Site.Home.AllTranslations }}
-                <li class="language-link {{ if eq $.Site.Language .Language }}selected{{ end }}">
-                    <a href="{{ .Permalink }}">{{ .Language }}</a>
-                </li>
+                    {{ $language := string .Language }}
+                    {{ $found := "false" }}
+                    {{ range $translations }}
+                        {{ if eq .Lang $language }}
+                        {{ $found = "true" }}
+                        <li class="language-link">
+                            <a href="{{ .Permalink }}">{{ .Lang }}</a>
+                        </li>
+                        {{ end }}
+                    {{ end }}
+                    {{ if eq $found "false" }}
+                    <li class="language-link selected">
+                        <a href="{{ $thisPage.Permalink }}">{{ $thisPage.Lang }}</a>
+                    </li>
+                    {{ end }}
                 {{ end }}
             </ul>
         </hgroup>
