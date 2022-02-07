@@ -337,3 +337,27 @@ main > section:last-of-type {
     padding-top: 2rem;
     text-align: center;
 }
+
+.employees {
+    list-style: none;
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.employees li {
+    display: inline-block;
+    margin: 0 1rem;
+}
+
+.employees li > * {
+    display: block;
+    margin: auto;
+}
+
+.employees li img {
+    border-radius: 100%;
+}
+
+.employees li span.name {
+    font-size: 1.4rem;
+}
