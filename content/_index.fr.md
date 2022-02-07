@@ -6,7 +6,20 @@ title: "Home"
 
 ## Arpentor Studio
 
-Arpentor Studio est une entreprise coopérative de création de jeux vidéo. Nous mettons l'accent sur la coopération afin de créer un environnement de travail inclusif, tolérant et créatif. Notre objectif est de créer des jeux qui font cogiter, apprendre et s'élever. Nous sommes actuellement deux personnes : Adrian (programmeur et game designer) et Alexis (directeur artistique et game designer).
+Arpentor Studio est une entreprise coopérative de création de jeux vidéo. Nous mettons l'accent sur la coopération afin de créer un environnement de travail inclusif, tolérant et créatif. Notre objectif est de créer des jeux qui font cogiter, apprendre et s'élever. Nous sommes actuellement deux personnes :
+
+<ul class="employees">
+    <li>
+        <img src="/img/portraits/Adrian.png" alt="Portrait de Adrian Gaudebert">
+        <span class="name">Adrian Gaudebert</span>
+        <span>Programmeur et Game Designer</span>
+    </li>
+    <li>
+        <img src="/img/portraits/Alexis.png" alt="Portrait de Alexis Caroff">
+        <span class="name">Alexis Caroff</span>
+        <span>Directeur Artistique et Game Designer</span>
+    </li>
+</ul>
 </section>
 
 <section>

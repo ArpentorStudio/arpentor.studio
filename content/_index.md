@@ -6,7 +6,20 @@ title: "Home"
 
 ## Arpentor Studio
 
-Arpentor Studio is a workers-owned company creating video games. We emphasize cooperation in order to create a work environment that is inclusive, caring and creative. Our goal is to create games that make you think, learn and grow. There are currently two us: Adrian (programmer and game designer) and Alexis (art director and game designer).
+Arpentor Studio is a workers-owned company creating video games. We emphasize cooperation in order to create a work environment that is inclusive, caring and creative. Our goal is to create games that make you think, learn and grow. There are currently two us:
+
+<ul class="employees">
+    <li>
+        <img src="/img/portraits/Adrian.png" alt="Portrait de Adrian Gaudebert">
+        <span class="name">Adrian Gaudebert</span>
+        <span>Programmer and Game Designer</span>
+    </li>
+    <li>
+        <img src="/img/portraits/Alexis.png" alt="Portrait de Alexis Caroff">
+        <span class="name">Alexis Caroff</span>
+        <span>Art Director and Game Designer</span>
+    </li>
+</ul>
 </section>
 
 <section>
