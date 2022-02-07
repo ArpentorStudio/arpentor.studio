@@ -26,13 +26,17 @@ Arpentor Studio is a workers-owned company creating video games. We emphasize co
 Our first game as a studio will bring the replayability of a deck builder to the strategy of a city builder. You will build increasingly influent cities. Each card in your deck will represent a building to add to your city. You'll be able to get new cards each turn, to improve your deck and thus your city. You will skilfully place your buildings to maximize their production. You will build many cities, until you create your very own nation!
 </section>
 
-<section>
+<section class="phytomancer-home-content">
 
 ## Phytomancer
 
 [Phytomancer](https://daydreel.itch.io/phytomancer) is the first game that we've created and sold, along with [Ana Maria de Jesus](https://www.artstation.com/jesuslovesyou), [Alexis Saler](https://www.fossilrecords.fr/) and [Daydreel](https://daydreel.itch.io/). It's a strategy game in which you will defend nature against the invasion of pollution. Plant magic seeds to clean a cell up, grow a sturdy tree or accelerate the propagation of grass. Surround the polluting factories with nature to bring balance back to the world. The game contains 10 levels of increasing difficulty and is [available for 3€ on itch.io](https://daydreel.itch.io/phytomancer).
 
+{{< youtube f3PmBE5yqig >}}
+
 <div class="itch-io-widget">
     <iframe src="https://itch.io/embed/1185198" width="552" height="167" frameborder="0"><a href="https://daydreel.itch.io/phytomancer">Phytomancer by Daydreel, alexis.saler, Akaroff, adngdb</a></iframe>
 </div>
+
+[Presskit](http://adrian.gaudebert.fr/en/phytomancer/)
 </section>

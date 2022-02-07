@@ -32,7 +32,11 @@ Notre premier jeu en tant que studio apportera la rejouabilité d'un deck builde
 
 [Phytomancer](https://daydreel.itch.io/phytomancer) est le premier jeu que nous avons créé et commercialisé, en compagnie d'[Ana Maria de Jesus](https://www.artstation.com/jesuslovesyou), [Alexis Saler](https://www.fossilrecords.fr/) et [Daydreel](https://daydreel.itch.io/). C'est un jeu de stratégie dans lequel vous devez défendre la nature contre l’invasion de la pollution. Plantez des graines magiques pour dépolluer une case, faire grandir un arbre résistant ou accélérer la propagation de l’herbe, et entourez les usines polluantes de nature pour rétablir l’équilibre. Le jeu se déroule sur 10 niveaux à la difficulté croissante et est [disponible pour 3€ sur itch.io](https://daydreel.itch.io/phytomancer).
 
+{{< youtube f3PmBE5yqig >}}
+
 <div class="itch-io-widget">
     <iframe src="https://itch.io/embed/1185198" width="552" height="167" frameborder="0"><a href="https://daydreel.itch.io/phytomancer">Phytomancer by Daydreel, alexis.saler, Akaroff, adngdb</a></iframe>
 </div>
+
+[Dossier de presse](http://adrian.gaudebert.fr/phytomancer/)
 </section>
