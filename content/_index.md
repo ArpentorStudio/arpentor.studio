@@ -27,7 +27,7 @@ Arpentor Studio is a workers-owned company creating video games. We emphasize co
 ## Our values
 
 - We maintain a work space that prioritizes the well-being of all members of our organization. That work space must be caring, inclusive, tolerant and encouraging diversity.
-- All members of the organization understand the reasons behind our decisions and our way of working.
+- We ensure that all members of the organization understand the reasons behind our decisions and our way of working.
 - Any form of authority in the organization derives from the attribution of a role to a person. That authority is clearly defined and voidable.
 - We refuse to exploit cognitive biases in order to encourage our public to pay more money than they intended to spend.
 </section>

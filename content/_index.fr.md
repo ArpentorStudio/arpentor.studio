@@ -27,7 +27,7 @@ Arpentor Studio est une entreprise coopérative de création de jeux vidéo. Nou
 ## Nos valeurs
 
 - Nous veillons au maintien d'un environnement de travail qui priorise le bien-être de tous les membres de notre organisation. Cet environnement doit être bienveillant, inclusif, tolérant et encourager la diversité.
-- Tous les membres de l'organisation doivent comprendre les raisons de nos décisions et de notre fonctionnement.
+- Nous nous assurons que chaque membre de l'organisation comprenne les raisons de nos décisions et de notre fonctionnement.
 - Toute forme d'autorité au sein de notre organisation est la conséquence de l'assignation collective d'un rôle à une personne. Cette autorité est clairement encadrée et révocable.
 - Nous refusons d'exploiter des biais cognitifs dans le but d'inciter notre public à payer plus d'argent que ce qu'ils avaient l'intention de dépenser.
 </section>
