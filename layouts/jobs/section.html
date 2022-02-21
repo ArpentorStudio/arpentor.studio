@@ -1,0 +1,20 @@
+{{ define "main" }}
+<main>
+    {{ .Content }}
+
+    <section>
+        <h2>{{ .Params.listSectionName }}</h2>
+
+        {{ if not .Paginator.Pages }}
+        {{ .Params.emptyListMessage }}
+        {{ end }}
+        <ul class="contents">
+            {{ range .Paginator.Pages }}
+            <li>
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+            </li>
+            {{ end }}
+        </ul>
+    </section>
+</main>
+{{ end }}
