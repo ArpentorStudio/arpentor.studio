@@ -37,6 +37,15 @@ Arpentor Studio is a workers-owned company creating video games. We emphasize co
 ## Our next game
 
 Our first game as a studio will bring the replayability of a deck builder to the strategy of a city builder. You will build increasingly influent cities. Each card in your deck will represent a building to add to your city. You'll be able to get new cards each turn, to improve your deck and thus your city. You will skilfully place your buildings to maximize their production. You will build many cities, until you create your very own nation!
+
+<ul class="home-images">
+    <li>
+        <a href="/img/decibu/concept-01.png" target="_blank"><img src="/img/decibu/concept-01.png" alt="Concept art 1 for our next game"></a>
+    </li>
+    <li>
+        <a href="/img/decibu/concept-02.png" target="_blank"><img src="/img/decibu/concept-02.png" alt="Concept art 2 for our next game"></a>
+    </li>
+</ul>
 </section>
 
 <section class="phytomancer-home-content">
