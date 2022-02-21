@@ -37,6 +37,15 @@ Arpentor Studio est une entreprise coopérative de création de jeux vidéo. Nou
 ## Notre prochain jeu
 
 Notre premier jeu en tant que studio apportera la rejouabilité d'un deck builder à la stratégie d'un city builder. Vous y bâtirez des cités de plus en plus influentes. Chaque carte de votre deck représentera un bâtiment à construire. Vous pourrez acquérir de nouvelles cartes à chaque tour, pour améliorer votre deck et donc votre cité. Vous placerez les bâtiments habilement dans votre cité pour améliorer sa production et son influence. Vous bâtirez de nombreuses cités, jusqu'à créer votre propre nation !
+
+<ul class="home-images">
+    <li>
+        <a href="/img/decibu/concept-01.png" target="_blank"><img src="/img/decibu/concept-01.png" alt="Concept art 1 pour notre prochain jeu"></a>
+    </li>
+    <li>
+        <a href="/img/decibu/concept-02.png" target="_blank"><img src="/img/decibu/concept-02.png" alt="Concept art 2 pour notre prochain jeu"></a>
+    </li>
+</ul>
 </section>
 
 <section>

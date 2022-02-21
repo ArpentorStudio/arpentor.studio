@@ -334,6 +334,21 @@ main > section:last-of-type {
     margin-bottom: 0;
 }
 
+.home-images {
+    display: flex;
+    justify-content: space-between;
+}
+
+.home-images li {
+    display: inline-block;
+    margin: 0;
+    width: 49%;
+}
+
+.home-images li img {
+    width: 100%;
+}
+
 .itch-io-widget {
     margin: 2rem 0;
     text-align: center;
