@@ -2,11 +2,20 @@
 title: "Poste : Responsable communication associé⋅e"
 url: "emploi/associe-e-communication"
 date: 2022-02-21T14:40:54+01:00
+expirydate: 2022-07-26T14:40:54+01:00
 ---
 
-# Poste : Responsable communication associé⋅e
+# ~~Poste : Responsable communication associé⋅e~~
+
+<p style="float: right;">Offre publiée le 21 février 2022</p>
 
 [← Retour aux offres d'emploi]({{< relref "/jobs/" >}})
+
+<div style="text-align: center;">
+
+## Cette offre n'est plus valable !
+
+</div>
 
 <section>
 
