@@ -2,13 +2,20 @@
 title: "Poste : Responsable communication / gestion de communauté"
 url: "emploi/communication-gestion-communaute"
 date: 2022-07-26T10:00:00+01:00
+expirydate: 2022-08-04T00:00:00+01:00
 ---
 
-# Poste : Responsable communication / gestion de communauté
+# ~~Poste : Responsable communication / gestion de communauté~~
 
 <p style="float: right;">Offre publiée le 27 juillet 2022</p>
 
 [← Retour aux offres d'emploi]({{< relref "/jobs/" >}})
+
+<div style="text-align: center;">
+
+## Cette offre n'est plus valable !
+
+</div>
 
 <section>
 
