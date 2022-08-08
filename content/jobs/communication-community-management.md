@@ -1,7 +1,7 @@
 ---
 title: "Position: Communication / community manager"
 date: 2022-07-26T10:00:00+01:00
-expirydate: 2022-08-04T00:00:00+01:00
+unlisted: true
 ---
 
 # ~~Position: Communication / community manager~~

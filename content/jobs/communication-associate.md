@@ -1,7 +1,7 @@
 ---
 title: "Position: Associate communication manager"
 date: 2022-02-21T14:40:54+01:00
-expirydate: 2022-07-26T14:40:54+01:00
+unlisted: true
 ---
 
 # ~~Position: Associate communication manager~~

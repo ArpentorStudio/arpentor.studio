@@ -5,11 +5,11 @@
     <section>
         <h2>{{ .Params.listSectionName }}</h2>
 
-        {{ if not .Paginator.Pages }}
+        {{ if not (where .Pages ".Params.unlisted" "!=" "true") }}
         {{ .Params.emptyListMessage }}
         {{ end }}
         <ul class="contents">
-            {{ range .Paginator.Pages }}
+            {{ range (where .Pages ".Params.unlisted" "!=" "true") }}
             <li>
                 <a href="{{ .Permalink }}">{{ .Title }}</a>
             </li>
