@@ -43,7 +43,7 @@ Des connaissances en animation d'interface (avec CSS ou JavaScript) et/ou en cr�
 ## Profil recherché
 
 - Vous êtes autonome, vous savez vous approprier un sujet et y apporter votre savoir-faire.
-- Vous avez plusieurs expériences significatives dans le jeu vidéo.
+- Vous avez plusieurs expériences significatives dans le jeu vidéo et/ou le Web.
 - Vous maîtrisez les technologies du Web : HTML, CSS et JavaScript.
 - Vous avez une bonne communication écrite en français, vous documentez votre travail.
 
