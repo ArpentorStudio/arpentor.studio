@@ -26,6 +26,14 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'arcane-nine';
+    src: url('../font/arcane-nine.woff2') format('woff2'),
+         url('../font/arcane-nine.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 /* Variables */
 :root {
     --color-background: hsl(24, 10%, 9%);
@@ -258,9 +266,6 @@ body > header nav ul li:last-of-type {
     body > header nav ul.languages {
         padding-left: 0;
     }
-
-    body > header nav ul.main {
-    }
 }
 
 @media (max-width: 400px) {
@@ -350,6 +355,7 @@ main > section:last-of-type {
 }
 
 .home-images li img {
+    border: 2px solid var(--color-box-border);
     width: 100%;
 }
 
