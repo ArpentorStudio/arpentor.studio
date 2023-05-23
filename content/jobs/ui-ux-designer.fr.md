@@ -2,13 +2,20 @@
 title: "UI / UX Designer"
 url: "emploi/ui-ux-designer"
 date: 2023-01-31T10:00:00+01:00
+unlisted: true
 ---
 
-# Poste : UI / UX Designer Freelance
+# ~~Poste : UI / UX Designer Freelance~~
 
 <p style="float: right;">Offre publiée le 31 janvier 2023</p>
 
 [← Retour aux offres d'emploi]({{< relref "/jobs/" >}})
+
+<div style="text-align: center;">
+
+## Cette offre n'est plus valable !
+
+</div>
 
 <section>
 Arpentor Studio cherche un⋅e designer UX / UI en freelance, pour une mission de 4 mois (renouvelable) à partir de mars 2023.
