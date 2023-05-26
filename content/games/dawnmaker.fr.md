@@ -90,7 +90,7 @@ Abonnez-vous à notre newsletter pour en apprendre plus sur le développement de
 
 ## Comment jouer
 
-Le but du jeu est de repousser le Smog de la région dans laquelle vous construisez votre cité, en améliorant la puissance de votre Aérogare et en la synchronisant avec un Phare extérieur. Ces bâtiments consomment chaque tour de la luminuile, et vous perdez la partie immédiatement si vous ne pouvez plus les alimenter.
+Votre but est de repousser le Smog de la région dans laquelle vous construisez votre cité, en améliorant la puissance de votre Aérogare et en la synchronisant avec un Phare extérieur. Ces bâtiments consomment chaque tour de la luminuile, et vous perdez la partie immédiatement si vous ne pouvez plus les alimenter.
 
 Pour monter de niveau, vous devez générer de l'éclairium dans votre cité, en bâtissant des merveilles, en recherchant des technologies ou en jouant des cartes. Cet éclairium est utilisable pour améliorer votre Aérogare ou remettre en état un Phare. La quantité d'éclairium requise pour le prochain niveau est indiquée en haut à gauche, avec le niveau actuel et la luminuile en réserve.
 
