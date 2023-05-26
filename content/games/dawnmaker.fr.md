@@ -87,27 +87,3 @@ Abonnez-vous à notre newsletter pour en apprendre plus sur le développement de
 
 [![Capture d’écran de Dawnmaker](/img/dawnmaker/screenshot-01.png)](/img/dawnmaker/screenshot-01.png)
 [![Capture d’écran de Dawnmaker](/img/dawnmaker/screenshot-02.png)](/img/dawnmaker/screenshot-02.png)
-
-## Comment jouer
-
-Le but du jeu est de repousser le Smog de la région dans laquelle vous construisez votre cité, en améliorant la puissance de votre Aérogare et en la synchronisant avec un Phare extérieur. Ces bâtiments consomment chaque tour de la luminuile, et vous perdez la partie immédiatement si vous ne pouvez plus les alimenter.
-
-Pour monter de niveau, vous devez générer de l'éclairium dans votre cité, en bâtissant des merveilles, en recherchant des technologies ou en jouant des cartes. Cet éclairium est utilisable pour améliorer votre Aérogare ou remettre en état un Phare. La quantité d'éclairium requise pour le prochain niveau est indiquée en haut à gauche, avec le niveau actuel et la luminuile en réserve.
-
-Le jeu est un deck builder, vous commencez avec un deck de 10 cartes, et vous en piochez 5 à chaque tour. Vous en ajouterez de nouvelles à votre deck au fil de la partie, principalement en construisant des bâtiments. Chaque fois que vous devez piocher une carte mais que votre deck est vide, votre défausse est mélangée et devient votre nouveau deck. Lorsque cela se produit, le Smog devient plus oppressant et votre Aérogare se mettra à consommer plus de luminuile par tour.
-
-Pour jouer les cartes de votre main, vous devez utiliser vos sages. Le coût d'une carte est indiqué en haut de la carte. Vos sages restants sont indiqués en bas à gauche de l'écran. Vous récupérez trois sages au début de chaque tour.
-
-Vos cartes vous donnent des ressources (matériaux et science). La quantité actuelle est montrée en haut au milieu. Certains bâtiments vous permettent de stocker une partie de ces ressources, pour les conserver d'un tour sur l'autre. Tout excès est perdu à la fin du tour.
-
-Avec les matériaux, vous pouvez acheter des bâtiments et les construire dans votre cité. Pour acheter un bâtiment, cliquez sur sa carte au marché (à droite) puis sur l'emplacement où vous voulez le construire sur le plateau (au centre). Le coût en matériaux d'un bâtiment est indiqué en haut à droite de sa carte.
-
-Certains bâtiments vous donnent une nouvelle carte quand vous les construisez. Cette carte est ajoutée à votre défausse. Passez la souris sur une carte de bâtiment pour voir la carte que celui-ci vous donne, si applicable.
-
-Certains bâtiments peuvent être activés, généralement en payant un coût pour déclencher un effet. Chaque bâtiment ne peut être activé qu'une seule fois par tour. Un bâtiment qui a une activation a un symbole autour de sa case sur le plateau, en gris s'il n'est pas activable (si vous ne remplissez pas les conditions ou si vous l'avez déjà activé ce tour) ou en blanc s'il est activable. Cliquez sur un bâtiment sur le plateau pour l'activer.
-
-Avec la science, vous pouvez renouveler les bâtiments disponibles au marché, en en tirant de nouveaux au hasard. Chaque renouvellement coûte 1 science.
-
-Vous pouvez choisir de verrouiller le marché, pour conserver ses bâtiments pour votre prochain tour. À défaut, le marché est entièrement renouvelé à la fin du tour.
-
-<a href="https://dawnmaker.arpentor.studio/" target="_blank">À vous de jouer maintenant !</a>
