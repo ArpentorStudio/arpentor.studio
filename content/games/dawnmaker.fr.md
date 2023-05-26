@@ -110,4 +110,4 @@ Avec la science, vous pouvez renouveler les bâtiments disponibles au marché, e
 
 Vous pouvez choisir de verrouiller le marché, pour conserver ses bâtiments pour votre prochain tour. À défaut, le marché est entièrement renouvelé à la fin du tour.
 
-À vous de jouer maintenant !
+<a href="https://dawnmaker.arpentor.studio/" target="_blank">À vous de jouer maintenant !</a>
