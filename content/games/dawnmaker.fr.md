@@ -18,12 +18,9 @@ Dawnmaker est un jeu de stratégie solo qui mélange des éléments de jeu de pl
     </li>
 </ul>
 
-<h3 style="text-align: center; margin: 2em 0; font-family: arcane-nine, sans-serif;">La démo arrive bientôt !</h3>
-
-## Screenshots
-
-[![Capture d’écran de Dawnmaker](/img/dawnmaker/screenshot-01.png)](/img/dawnmaker/screenshot-01.png)
-[![Capture d’écran de Dawnmaker](/img/dawnmaker/screenshot-02.png)](/img/dawnmaker/screenshot-02.png)
+<h2 style="text-align: center; margin: 2em 0; font-family: arcane-nine, sans-serif; background-image: url(/img/title.svg); background-repeat: no-repeat; backgroud-size: cover; background-position: center; padding: 1.2em;">
+    <a href="https://dawnmaker.arpentor.studio/" target="_blank">Jouez à la démo</a>
+</h2>
 
 ## Rejoignez la communauté
 
@@ -85,3 +82,8 @@ Dawnmaker est un jeu de stratégie solo qui mélange des éléments de jeu de pl
 <!--End mc_embed_signup-->
 
 Abonnez-vous à notre newsletter pour en apprendre plus sur le développement de Dawnmaker, pour être informé⋅e des nouvelles versions et des événements à venir, et pour être le ou la première à savoir quand le jeu sortira !
+
+## Screenshots
+
+[![Capture d’écran de Dawnmaker](/img/dawnmaker/screenshot-01.png)](/img/dawnmaker/screenshot-01.png)
+[![Capture d’écran de Dawnmaker](/img/dawnmaker/screenshot-02.png)](/img/dawnmaker/screenshot-02.png)

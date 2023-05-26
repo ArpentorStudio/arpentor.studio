@@ -17,12 +17,9 @@ Dawnmaker a is solo strategy game combining board game and deck building element
     </li>
 </ul>
 
-<h3 style="text-align: center; margin: 2em 0; font-family: arcane-nine, sans-serif;">Demo coming soon!</h3>
-
-## Screenshots
-
-[![Dawnmaker screenshot](/img/dawnmaker/screenshot-01.png)](/img/dawnmaker/screenshot-01.png)
-[![Dawnmaker screenshot](/img/dawnmaker/screenshot-02.png)](/img/dawnmaker/screenshot-02.png)
+<h2 style="text-align: center; margin: 2em 0; font-family: arcane-nine, sans-serif; background-image: url(/img/title.svg); background-repeat: no-repeat; backgroud-size: cover; background-position: center; padding: 1.2em;">
+    <a href="https://dawnmaker.arpentor.studio/" target="_blank">Play the demo</a>
+</h2>
 
 ## Join the community
 
@@ -84,3 +81,8 @@ Dawnmaker a is solo strategy game combining board game and deck building element
 <!--End mc_embed_signup-->
 
 Sign up to our newsletter to learn more about the development of Dawnmaker, to be informed about new versions and upcoming events, and to be the first one to know when the game will be released!
+
+## Screenshots
+
+[![Dawnmaker screenshot](/img/dawnmaker/screenshot-01.png)](/img/dawnmaker/screenshot-01.png)
+[![Dawnmaker screenshot](/img/dawnmaker/screenshot-02.png)](/img/dawnmaker/screenshot-02.png)
