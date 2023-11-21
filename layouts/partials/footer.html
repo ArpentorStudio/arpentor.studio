@@ -1,54 +1,66 @@
-<footer>
-    <div>
-        <section class="social-network-links">
-            <h3>{{ i18n "footerFollowUs" }}</h3>
-            <ul>
-                <li>
-                    <a href="https://twitter.com/arpentorstudio">
-                        <img src="{{ "img/social/twitter.png" | relURL }}" alt="">
-                    </a>
-                </li>
-                <li>
-                    <a href="https://www.instagram.com/arpentorstudio/">
-                        <img src="{{ "img/social/instagram.png" | relURL }}" alt="">
-                    </a>
-                </li>
-                <li>
-                    <a href="https://www.facebook.com/Arpentor-Studio-100396392569735">
-                        <img src="{{ "img/social/facebook.png" | relURL }}" alt="">
-                    </a>
-                </li>
-                <li>
-                    <a href="https://www.youtube.com/channel/UC5O0siehXk70Qp112X5M0Ag">
-                        <img src="{{ "img/social/youtube.png" | relURL }}" alt="">
-                    </a>
-                </li>
-            </ul>
-        </section>
+<footer class="footer is-size-6">
+    <div class="container">
+        <div class="columns">
+            <section class="column is-narrow">
+                <h5 class="title is-5">{{ i18n "footerFollowUs" }}</h5>
+                <ul class="social-network-links">
+                    <li>
+                        <a href="https://twitter.com/arpentorstudio">
+                            <img src="{{ "img/social/twitter.png" | relURL }}" alt="">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.instagram.com/arpentorstudio/">
+                            <img src="{{ "img/social/instagram.png" | relURL }}" alt="">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.facebook.com/Arpentor-Studio-100396392569735">
+                            <img src="{{ "img/social/facebook.png" | relURL }}" alt="">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.youtube.com/channel/UC5O0siehXk70Qp112X5M0Ag">
+                            <img src="{{ "img/social/youtube.png" | relURL }}" alt="">
+                        </a>
+                    </li>
+                </ul>
+            </section>
 
-        <section>
-            <h3>{{ i18n "footerSiteMap" }}</h3>
-            <ul>
-                <li><a href="{{ "/" | relLangURL }}">{{ i18n "home" }}</a></li>
-                {{ range .Site.Menus.footer }}
-                <li>
-                    <a href="{{ .URL }}">
-                        {{ .Name }}
-                    </a>
-                </li>
-                {{ end }}
-            </ul>
-        </section>
+            <section class="column">
+                <div class="logo">
+                    <img src={{ "img/logo.svg" | relURL }} alt="" />
+                    <span>
+                        Arpentor
+                        <small>Studio</small>
+                    </span>
+                </div>
+            </section>
 
-        <section>
-            <h3>{{ i18n "footerLanguages" }}</h3>
-            <ul>
-                {{ range $.Site.Home.AllTranslations }}
-                <li>
-                    <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
-                </li>
-                {{ end }}
-            </ul>
-        </section>
+            <section class="column is-narrow mr-6">
+                <h5 class="title is-5">{{ i18n "footerSiteMap" }}</h5>
+                <ul class="content">
+                    <li><a href="{{ "/" | relLangURL }}">{{ i18n "home" }}</a></li>
+                    {{ range .Site.Menus.footer }}
+                    <li>
+                        <a href="{{ .URL }}">
+                            {{ .Name }}
+                        </a>
+                    </li>
+                    {{ end }}
+                </ul>
+            </section>
+
+            <section class="column is-narrow">
+                <h5 class="title is-5">{{ i18n "footerLanguages" }}</h5>
+                <ul>
+                    {{ range $.Site.Home.AllTranslations }}
+                    <li>
+                        <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+                    </li>
+                    {{ end }}
+                </ul>
+            </section>
+        </div>
     </div>
 </footer>

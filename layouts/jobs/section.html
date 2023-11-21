@@ -1,9 +1,9 @@
 {{ define "main" }}
-<main>
+<main class="section">
     {{ .Content }}
 
-    <section>
-        <h2>{{ .Params.listSectionName }}</h2>
+    <section class="container block">
+        <h3 class="title is-3">{{ .Params.listSectionName }}</h3>
 
         {{ if not (where .Pages ".Params.unlisted" "!=" "true") }}
         {{ .Params.emptyListMessage }}

@@ -1,47 +1,47 @@
-<header>
-    <div>
-        <a href="{{ "/" | relLangURL }}">
-            <img src="{{ "img/logo.svg" | relURL }}" alt="" />
-        </a>
-
-        <hgroup>
-            <h1>
-                <a href="{{ "/" | relLangURL }}">
-                    <span>Arpentor</span>
-                    <small>Studio</small>
+<header class="section">
+    <div class="container">
+        <nav class="navbar" role="navigation">
+            <div class="navbar-brand">
+                <a class="navbar-item logo" href={{ "/" | relLangURL }}>
+                    <img src={{ "img/logo.svg" | relURL }} alt="" />
+                    <span>
+                        Arpentor
+                        <small>Studio</small>
+                    </span>
                 </a>
-            </h1>
-            <ul class="languages">
-                {{ $thisPage := . }}
-                {{ $translations := .Translations }}
-                {{ range $.Site.Home.AllTranslations }}
-                    {{ $language := string .Language }}
-                    {{ $found := "false" }}
-                    {{ range $translations }}
-                        {{ if eq .Lang $language }}
-                        {{ $found = "true" }}
-                        <li class="language-link">
-                            <a href="{{ .Permalink }}">{{ .Lang }}</a>
-                        </li>
+
+                <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarMenu">
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                </a>
+            </div>
+
+            <div class="navbar-menu" id="navbarMenu">
+                <div class="navbar-start">
+                    {{ range .Site.Menus.main }}
+                    <a class="navbar-item" href="{{ .URL }}">{{ .Name }}</a>
+                    {{ end }}
+                </div>
+
+                <div class="navbar-end">
+                    {{ $thisPage := . }}
+                    {{ $translations := .Translations }}
+                    {{ range $.Site.Home.AllTranslations }}
+                        {{ $language := string .Language }}
+                        {{ $found := "false" }}
+                        {{ range $translations }}
+                            {{ if eq .Lang $language }}
+                            {{ $found = "true" }}
+                            <a class="navbar-item language" href="{{ .Permalink }}">{{ .Lang }}</a>
+                            {{ end }}
+                        {{ end }}
+                        {{ if eq $found "false" }}
+                        <a class="navbar-item language selected" href="{{ $thisPage.Permalink }}">{{ $thisPage.Lang }}</a>
                         {{ end }}
                     {{ end }}
-                    {{ if eq $found "false" }}
-                    <li class="language-link selected">
-                        <a href="{{ $thisPage.Permalink }}">{{ $thisPage.Lang }}</a>
-                    </li>
-                    {{ end }}
-                {{ end }}
-            </ul>
-        </hgroup>
-
-        <nav>
-            <ul class="main">
-                {{ range .Site.Menus.main }}
-                <li>
-                    <a href="{{ .URL }}">{{ .Name }}</a>
-                </li>
-                {{ end }}
-            </ul>
+                </div>
+            </div>
         </nav>
     </div>
 </header>

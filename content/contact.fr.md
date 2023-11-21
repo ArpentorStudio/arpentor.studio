@@ -7,9 +7,9 @@ menu:
         identifier: "contact"
         weight: 40
 ---
-<section>
+<section class="container content">
 
-## Contactez-nous par email
+<h3 class="title is-3">Contactez-nous par email</h3>
 
 Le meilleur moyen de nous contacter, c'est de nous envoyer un email !
 
@@ -20,9 +20,9 @@ Le meilleur moyen de nous contacter, c'est de nous envoyer un email !
 | tout autre sujet | **contact** chez **arpentor.studio** |
 </section>
 
-<section>
+<section class="container content">
 
-## Ou sur les réseaux sociaux
+<h3 class="title is-3">Ou sur les réseaux sociaux</h3>
 
 Vous pouvez également nous retrouver sur les réseaux sociaux :
 

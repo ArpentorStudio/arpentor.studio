@@ -1,0 +1,31 @@
+@charset "utf-8"
+
+/*! bulma.io v0.9.4 | MIT License | github.com/jgthms/bulma */
+@import "sass/utilities/_all"
+
+$scheme-main: $black
+$scheme-main-bis: $black-bis
+$scheme-main-ter: $black-ter
+$scheme-invert: $white
+$scheme-invert-bis: $white-bis
+$scheme-invert-ter: $white-ter
+
+$text: $grey-light
+$text-invert: findColorInvert($text)
+$text-strong: $grey-lighter
+
+$link: $yellow
+$link-invert: findColorInvert($link)
+$link-light: findLightColor($link)
+$link-dark: findDarkColor($link)
+$link-hover: $white-ter
+
+$shadow: 0 0.5em 1em -0.125em rgba($scheme-invert, 0.1), 0 0px 0 1px rgba($scheme-invert, 0.02)
+
+@import "sass/base/_all"
+@import "sass/elements/_all"
+@import "sass/form/_all"
+@import "sass/components/_all"
+@import "sass/grid/_all"
+@import "sass/helpers/_all"
+@import "sass/layout/_all"

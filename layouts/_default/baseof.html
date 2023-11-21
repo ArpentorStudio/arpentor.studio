@@ -10,18 +10,23 @@
     <meta name="description" content="{{ .Description }}">
     <meta name="author" content="Arpentor Studio">
     {{ hugo.Generator }}
-    <link rel="stylesheet" href="{{ "css/reset.css" | relURL }}">
-    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+
+    {{ $opts := dict "transpiler" "dartsass" "targetPath" "css/bulma.css" }}
+    {{ with resources.Get "sass/bulma.sass" | toCSS $opts | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+    {{ end }}
+
+    <link rel="stylesheet" href={{ "css/style.css" | relURL }}>
     <link
         href="/blog/feed/atom"
         rel="alternate"
         type="application/atom+xml"
         title="{{ .Site.Title }}"
     >
-    <link rel="icon" type="image/svg+xml" href="{{ "img/icons/home.svg" | relURL }}">
+    <link rel="icon" type="image/svg+xml" href={{ "img/icons/home.svg" | relURL }}>
 </head>
 
-<body>
+<body class="is-dark">
     {{ partial "navigation.html" . }}
 
     {{ block "main" . }}
@@ -44,6 +49,8 @@ fathom('set', 'siteId', 'YBIHO');
 fathom('trackPageview');
 </script>
 <!-- / Fathom -->
+
+<script src={{ "js/bulma.js" | relURL }} lang="javascript"></script>
 
 </body>
 </html>

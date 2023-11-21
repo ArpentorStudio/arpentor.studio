@@ -8,9 +8,9 @@ menu:
         weight: 40
 ---
 
-<section>
+<section class="container content">
 
-## Contact us by email
+<h3 class="title is-3">Contact us by email</h3>
 
 The best way to reach us is to send us an email!
 
@@ -21,9 +21,9 @@ The best way to reach us is to send us an email!
 | any other topic | **contact** at **arpentor.studio** |
 </section>
 
-<section>
+<section class="container content">
 
-## Or reach out on social media
+<h3 class="title is-3">Or reach out on social media</h3>
 
 You can also find us on social media:
 

@@ -1,7 +1,7 @@
 {{ define "main" }}
-<main>
+<main class="section">
     {{ .Content }}
-    <ul class="contents">
+    <ul class="container content">
         {{ range .Paginator.Pages }}
         <li>
             <a href="{{ .Permalink }}">{{ .Title }}</a>
