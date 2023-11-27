@@ -2,6 +2,10 @@
 title: "Dawnmaker"
 url: "jeux/dawnmaker"
 date: 2023-05-23T14:56:10+02:00
+featured_image: /img/dawnmaker/key-art.png
+description: Dawnmaker est un jeu de stratégie solo qui mélange des éléments de jeu de plateau et de deck builder. Construisez des bâtiments, améliorez votre deck de cartes et repoussez le Smog toxique qui a envahi le monde.
+summary: Dawnmaker est un jeu de stratégie solo dans lequel vous construisez votre deck, optimisez vos cités et ramenez la vie sur le continent perdu.
+
 menu:
     main:
         weight: 11
@@ -41,7 +45,7 @@ Abonnez-vous à notre newsletter et vous recevrez un accès exclusif à la versi
             <h3 class="title is-3">Features</h3>
             <ul>
                 <li><strong>Reprenez le continent perdu</strong> — Le continent d’Heksiga a été recouvert par un Smog toxique. Réparez et améliorez des phares magiques pour repousser le Smog et récupérer cette terre, région par région.</li>
-                <li><strong>Construisez des cités efficaces</strong> — Tirez le meilleur parti de l'espace limité en positionnant vos bâtiments de manière optimale. Améliorez votre phare pour repousser le Smog et agrandir votre cité.</li>
+                <li><strong>Construisez des cités efficaces</strong> — Tirez le meilleur parti de l’espace limité en positionnant vos bâtiments de manière optimale. Améliorez votre phare pour repousser le Smog et agrandir votre cité.</li>
                 <li><strong>Gérez vos ressources</strong> — Cultivez des fermes, construisez des industries, développez la science et inspirez votre peuple pour créer la plus rare des ressources: l’Éclairium !</li>
                 <li><strong>Retrouvez des technologies perdues</strong> — Explorez les vestiges de l’ancien Empire et redécouvrez des technologies qui furent englouties par le Smog.</li>
             </ul>

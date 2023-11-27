@@ -1,5 +1,6 @@
 ---
 title: "Home"
+description: Arpentor Studio est une entreprise coopérative de création de jeux vidéo. Nous créons des jeux qui font cogiter, apprendre et s’élever.
 ---
 
 <section class="hero is-halfheight dawnmaker-banner">
@@ -21,7 +22,7 @@ title: "Home"
 
 <h2 class="title is-2">Nous créons des jeux</h2>
 
-<strong>Arpentor Studio</strong> est une entreprise coopérative de création de jeux vidéo. Nous mettons l'accent sur la coopération afin de créer un environnement de travail inclusif, tolérant et créatif. Notre objectif est de <strong>créer des jeux qui font cogiter, apprendre et s'élever</strong>. Nous sommes actuellement deux personnes :
+<strong>Arpentor Studio</strong> est une entreprise coopérative de création de jeux vidéo. Nous mettons l’accent sur la coopération afin de créer un environnement de travail inclusif, tolérant et créatif. Notre objectif est de <strong>créer des jeux qui font cogiter, apprendre et s’élever</strong>. Nous sommes actuellement deux personnes :
 
 <ul class="employees">
     <li>
@@ -44,22 +45,22 @@ title: "Home"
 <div class="columns is-multiline">
         <div class="column is-half">
             <p class="box">
-                Nous veillons au maintien d'un environnement de travail qui priorise le bien-être de tous les membres de notre organisation. Cet environnement doit être bienveillant, inclusif, tolérant et encourager la diversité.
+                Nous veillons au maintien d’un environnement de travail qui priorise le bien-être de tous les membres de notre organisation. Cet environnement doit être bienveillant, inclusif, tolérant et encourager la diversité.
             </p>
         </div>
         <div class="column is-half">
             <p class="box">
-                Nous nous assurons que chaque membre de l'organisation comprenne les raisons de nos décisions et de notre fonctionnement.
+                Nous nous assurons que chaque membre de l’organisation comprenne les raisons de nos décisions et de notre fonctionnement.
             </p>
         </div>
         <div class="column is-half">
             <p class="box">
-                Toute forme d'autorité au sein de notre organisation est la conséquence de l'assignation collective d'un rôle à une personne. Cette autorité est clairement encadrée et révocable.
+                Toute forme d’autorité au sein de notre organisation est la conséquence de l’assignation collective d’un rôle à une personne. Cette autorité est clairement encadrée et révocable.
             </p>
         </div>
         <div class="column is-half">
             <p class="box">
-                Nous refusons d'exploiter des biais cognitifs dans le but d'inciter notre public à payer plus d'argent que ce qu'ils avaient l'intention de dépenser.
+                Nous refusons d’exploiter des biais cognitifs dans le but d’inciter notre public à payer plus d’argent que ce qu’ils avaient l’intention de dépenser.
             </p>
         </div>
 </div>
@@ -69,7 +70,7 @@ title: "Home"
 
 <h2 class="title is-2">Nous avons co-créé Phytomancer</h2>
 
-[Phytomancer](https://daydreel.itch.io/phytomancer) est le premier jeu que nous avons créé et commercialisé, en compagnie d'[Ana Maria de Jesus](https://www.artstation.com/jesuslovesyou), [Alexis Saler](https://www.fossilrecords.fr/) et [Daydreel](https://daydreel.itch.io/). C'est un jeu de stratégie dans lequel vous devez défendre la nature contre l’invasion de la pollution. Plantez des graines magiques pour dépolluer une case, faire grandir un arbre résistant ou accélérer la propagation de l’herbe, et entourez les usines polluantes de nature pour rétablir l’équilibre. Le jeu se déroule sur 10 niveaux à la difficulté croissante et est [disponible pour 3€ sur itch.io](https://daydreel.itch.io/phytomancer).
+[Phytomancer](https://daydreel.itch.io/phytomancer) est le premier jeu que nous avons créé et commercialisé, en compagnie d’[Ana Maria de Jesus](https://www.artstation.com/jesuslovesyou), [Alexis Saler](https://www.fossilrecords.fr/) et [Daydreel](https://daydreel.itch.io/). C’est un jeu de stratégie dans lequel vous devez défendre la nature contre l’invasion de la pollution. Plantez des graines magiques pour dépolluer une case, faire grandir un arbre résistant ou accélérer la propagation de l’herbe, et entourez les usines polluantes de nature pour rétablir l’équilibre. Le jeu se déroule sur 10 niveaux à la difficulté croissante et est [disponible pour 3€ sur itch.io](https://daydreel.itch.io/phytomancer).
 
 [Dossier de presse](http://adrian.gaudebert.fr/phytomancer/)
 

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang='{{ .Site.Language.Lang }}'>
 <head>
-    <title>{{ .Title }} | {{ .Site.Title }}</title>
+    <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} &middot; {{ .Site.Title }}{{ end }}</title>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta
         name="viewport"
@@ -10,6 +10,28 @@
     <meta name="description" content="{{ .Description }}">
     <meta name="author" content="Arpentor Studio">
     {{ hugo.Generator }}
+
+    <meta property="og:locale" content="{{ .Language }}">
+    <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} &middot; {{ .Site.Title }}{{ end }}">
+    <meta property="og:description" content="{{ if .IsHome }}{{ .Description }}{{ else }}{{ htmlEscape .Summary }}{{ end }}">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:site_name" content="{{ .Site.Title }}">
+    {{ if .Params.featured_image }}
+    <meta property="og:image" content="{{ .Params.featured_image }}">
+    <meta property="og:image:secure_url" content="{{ .Params.featured_image }}">
+    {{ else }}
+    <meta property="og:image" content="{{ .Site.Params.featured_image }}">
+    <meta property="og:image:secure_url" content="{{ .Site.Params.featured_image }}">
+    {{- end }}
+
+    <meta name="twitter:card" content="{{ if .Params.featured_image }}summary_large_image{{else}}summary{{end}}">
+    <meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} &middot; {{ .Site.Title }}{{ end }}">
+    <meta name="twitter:description" content="{{ if .IsHome }}{{ .Description }}{{ else }}{{ htmlEscape .Summary }}{{ end }}">
+    {{ if .Params.featured_image }}
+    <meta name="twitter:image" content="{{ .Params.featured_image }}">
+    {{ else }}
+    <meta name="twitter:image" content="{{ .Site.Params.featured_image }}">
+    {{ end }}
 
     {{ $opts := dict "transpiler" "dartsass" "targetPath" "css/bulma.css" }}
     {{ with resources.Get "sass/bulma.sass" | toCSS $opts | minify | fingerprint }}

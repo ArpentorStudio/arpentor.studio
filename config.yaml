@@ -16,3 +16,6 @@ markup:
     goldmark:
         renderer:
             unsafe: true
+
+params:
+    featured_image: /img/logo_with_background.png

@@ -1,5 +1,6 @@
 ---
 title: "Home"
+description: Arpentor Studio is a workers-owned company creating video games. We make games that make you think, learn and grow.
 ---
 
 <section class="hero is-halfheight dawnmaker-banner">
@@ -69,7 +70,7 @@ title: "Home"
 
 <h2 class="title is-2">We co-created Phytomancer</h2>
 
-[Phytomancer](https://daydreel.itch.io/phytomancer) is the first game that we've created and sold, along with [Ana Maria de Jesus](https://www.artstation.com/jesuslovesyou), [Alexis Saler](https://www.fossilrecords.fr/) and [Daydreel](https://daydreel.itch.io/). It's a strategy game in which you will defend nature against the invasion of pollution. Plant magic seeds to clean a cell up, grow a sturdy tree or accelerate the propagation of grass. Surround the polluting factories with nature to bring balance back to the world. The game contains 10 levels of increasing difficulty and is [available for 3€ on itch.io](https://daydreel.itch.io/phytomancer).
+[Phytomancer](https://daydreel.itch.io/phytomancer) is the first game that we’ve created and sold, along with [Ana Maria de Jesus](https://www.artstation.com/jesuslovesyou), [Alexis Saler](https://www.fossilrecords.fr/) and [Daydreel](https://daydreel.itch.io/). It’s a strategy game in which you will defend nature against the invasion of pollution. Plant magic seeds to clean a cell up, grow a sturdy tree or accelerate the propagation of grass. Surround the polluting factories with nature to bring balance back to the world. The game contains 10 levels of increasing difficulty and is [available for 3€ on itch.io](https://daydreel.itch.io/phytomancer).
 
 [Presskit](http://adrian.gaudebert.fr/en/phytomancer/)
 

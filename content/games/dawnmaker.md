@@ -1,6 +1,10 @@
 ---
 title: "Dawnmaker"
 date: 2023-05-23T14:56:10+02:00
+featured_image: /img/dawnmaker/key-art.png
+description: Dawnmaker a is solo strategy game combining board game and deck building elements. Raise buildings, improve your deck of cards and repel the toxic Smog which took over the world.
+summary: Dawnmaker is a solo strategy game where you build your deck, optimize your cities and bring life back to the lost continent.
+
 menu:
     main:
         weight: 11
@@ -28,7 +32,7 @@ menu:
 <iframe src="https://arpentor.substack.com/embed" width="100%" height="150" style="border:2px solid #333; background:white;" frameborder="0" scrolling="no"></iframe>
 
 
-Sign up to our newsletter and you'll receive an exclusive access to the current alpha version of Dawnmaker. Every other month, you will learn more about the development of Dawnmaker and be notified about new versions, playtests and upcoming events!
+Sign up to our newsletter and you’ll receive an exclusive access to the current alpha version of Dawnmaker. Every other month, you will learn more about the development of Dawnmaker and be notified about new versions, playtests and upcoming events!
 </div>
 
 <div class="container block mb-6">
