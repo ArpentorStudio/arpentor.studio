@@ -13,11 +13,11 @@ menu:
         weight: 11
 ---
 
-<section class="hero is-large dawnmaker-banner">
+<section class="hero is-fullheight dawnmaker-banner">
     <div class="hero-body"></div>
     <div class="hero-foot">
         <h1 class="title dawnmaker-title">
-            Dawnmaker
+            Dawn<wbr>maker
         </h1>
         <h2 class="subtitle has-text-light">
             Build your deck. Optimize your cities. Bring life back to the lost continent.
@@ -39,7 +39,7 @@ Sign up to our newsletter and you’ll receive an exclusive access to the curren
     <div class="columns">
         <div class="column content">
             <h3 class="title is-3">Gameplay</h3>
-            <p>Dawnmaker a is solo strategy game combining board game and deck building elements. Raise buildings, improve your deck of cards and repel the toxic Smog which took over the world.</p>
+            <p>Dawnmaker is a solo strategy game combining board game and deck building elements. Raise buildings, improve your deck of cards and repel the toxic Smog which took over the world.</p>
         </div>
         <div class="column content">
             <h3 class="title is-3">Features</h3>

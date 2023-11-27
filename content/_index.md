@@ -3,7 +3,7 @@ title: "Home"
 description: Arpentor Studio is a workers-owned company creating video games. We make games that make you think, learn and grow.
 ---
 
-<section class="hero is-halfheight dawnmaker-banner">
+<section class="hero is-halfheight dawnmaker-banner home-banner">
     <div class="hero-body"></div>
     <div class="hero-foot">
         <h1 class="title dawnmaker-title">

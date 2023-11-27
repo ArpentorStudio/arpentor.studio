@@ -3,7 +3,7 @@ title: "Home"
 description: Arpentor Studio est une entreprise coopérative de création de jeux vidéo. Nous créons des jeux qui font cogiter, apprendre et s’élever.
 ---
 
-<section class="hero is-halfheight dawnmaker-banner">
+<section class="hero is-halfheight dawnmaker-banner home-banner">
     <div class="hero-body"></div>
     <div class="hero-foot">
         <h1 class="title dawnmaker-title">

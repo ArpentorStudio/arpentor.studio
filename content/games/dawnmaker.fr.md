@@ -14,11 +14,11 @@ menu:
         weight: 11
 ---
 
-<section class="hero is-large dawnmaker-banner">
+<section class="hero is-fullheight dawnmaker-banner">
     <div class="hero-body"></div>
     <div class="hero-foot">
         <h1 class="title dawnmaker-title">
-            Dawnmaker
+            Dawn<wbr>maker
         </h1>
         <h2 class="subtitle has-text-light">
             Construisez votre deck. Optimisez vos cités. Ramenez la vie sur le continent perdu.
