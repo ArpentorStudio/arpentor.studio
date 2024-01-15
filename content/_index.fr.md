@@ -44,24 +44,60 @@ description: Arpentor Studio est une entreprise coopérative de création de jeu
 
 <div class="columns is-multiline">
         <div class="column is-half">
-            <p class="box">
-                Nous veillons au maintien d’un environnement de travail qui priorise le bien-être de tous les membres de notre organisation. Cet environnement doit être bienveillant, inclusif, tolérant et encourager la diversité.
-            </p>
+            <div class="box">
+                <div class="media">
+                    <div class="media-left">
+                        <figure class="image is-64x64">
+                            <img src="/img/icons/cherish.svg" alt="">
+                        </figure>
+                    </div>
+                    <div class="media-content">
+                        <p>Nous veillons au maintien d’un environnement de travail qui priorise le bien-être de tous les membres de notre organisation. Cet environnement doit être bienveillant, inclusif, tolérant et encourager la diversité.</p>
+                    </div>
+                </div>
+            </div>
         </div>
         <div class="column is-half">
-            <p class="box">
-                Nous nous assurons que chaque membre de l’organisation comprenne les raisons de nos décisions et de notre fonctionnement.
-            </p>
+            <div class="box">
+                <div class="media">
+                    <div class="media-left">
+                        <figure class="image is-64x64">
+                            <img src="/img/icons/laurels.svg" alt="">
+                        </figure>
+                    </div>
+                    <div class="media-content">
+                        <p>Toute forme d’autorité au sein de notre organisation est la conséquence de l’assignation collective d’un rôle à une personne. Cette autorité est clairement encadrée et révocable.</p>
+                    </div>
+                </div>
+            </div>
         </div>
         <div class="column is-half">
-            <p class="box">
-                Toute forme d’autorité au sein de notre organisation est la conséquence de l’assignation collective d’un rôle à une personne. Cette autorité est clairement encadrée et révocable.
-            </p>
+            <div class="box">
+                <div class="media">
+                    <div class="media-left">
+                        <figure class="image is-64x64">
+                            <img src="/img/icons/brain.svg" alt="">
+                        </figure>
+                    </div>
+                    <div class="media-content">
+                        <p>Nous nous assurons que chaque membre de l’organisation comprenne les raisons de nos décisions et de notre fonctionnement.</p>
+                    </div>
+                </div>
+            </div>
         </div>
         <div class="column is-half">
-            <p class="box">
-                Nous refusons d’exploiter des biais cognitifs dans le but d’inciter notre public à payer plus d’argent que ce qu’ils avaient l’intention de dépenser.
-            </p>
+            <div class="box">
+                <div class="media">
+                    <div class="media-left">
+                        <figure class="image is-64x64">
+                            <img src="/img/icons/artificial-intelligence.svg" alt="">
+                        </figure>
+                    </div>
+                    <div class="media-content">
+                        <p>Nous refusons d’exploiter des biais cognitifs dans le but d’inciter notre public à payer plus d’argent que ce qu’ils avaient l’intention de dépenser.</p>
+                    </div>
+                </div>
+            </div>
         </div>
 </div>
 </div>

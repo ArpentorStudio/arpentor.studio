@@ -44,24 +44,60 @@ description: Arpentor Studio is a workers-owned company creating video games. We
 
 <div class="columns is-multiline">
         <div class="column is-half">
-            <p class="box">
-                We maintain a work space that prioritizes the well-being of all members of our organization. That work space must be caring, inclusive, tolerant and encouraging diversity.
-            </p>
+            <div class="box">
+                <div class="media">
+                    <div class="media-left">
+                        <figure class="image is-64x64">
+                            <img src="/img/icons/cherish.svg" alt="">
+                        </figure>
+                    </div>
+                    <div class="media-content">
+                        <p>We maintain a work space that prioritizes the well-being of all members of our organization. That work space must be caring, inclusive, tolerant and encouraging diversity.</p>
+                    </div>
+                </div>
+            </div>
         </div>
         <div class="column is-half">
-            <p class="box">
-                We ensure that all members of the organization understand the reasons behind our decisions and our way of working.
-            </p>
+            <div class="box">
+                <div class="media">
+                    <div class="media-left">
+                        <figure class="image is-64x64">
+                            <img src="/img/icons/laurels.svg" alt="">
+                        </figure>
+                    </div>
+                    <div class="media-content">
+                        <p>Any form of authority in the organization derives from the attribution of a role to a person. That authority is clearly defined and voidable.</p>
+                    </div>
+                </div>
+            </div>
         </div>
         <div class="column is-half">
-            <p class="box">
-                Any form of authority in the organization derives from the attribution of a role to a person. That authority is clearly defined and voidable.
-            </p>
+            <div class="box">
+                <div class="media">
+                    <div class="media-left">
+                        <figure class="image is-64x64">
+                            <img src="/img/icons/brain.svg" alt="">
+                        </figure>
+                    </div>
+                    <div class="media-content">
+                        <p>We ensure that all members of the organization understand the reasons behind our decisions and our way of working.</p>
+                    </div>
+                </div>
+            </div>
         </div>
         <div class="column is-half">
-            <p class="box">
-                We refuse to exploit cognitive biases in order to encourage our public to pay more money than they intended to spend.
-            </p>
+            <div class="box">
+                <div class="media">
+                    <div class="media-left">
+                        <figure class="image is-64x64">
+                            <img src="/img/icons/artificial-intelligence.svg" alt="">
+                        </figure>
+                    </div>
+                    <div class="media-content">
+                        <p>We refuse to exploit cognitive biases in order to encourage our public to pay more money than they intended to spend.</p>
+                    </div>
+                </div>
+            </div>
         </div>
 </div>
 </div>
