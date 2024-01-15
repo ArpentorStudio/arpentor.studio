@@ -27,6 +27,20 @@ menu:
 </section>
 
 <section class="section">
+    <div class="container level">
+        <div class="level-item">
+            <a
+                href="https://store.steampowered.com/app/2749100?utm_source=arpentor.studio"
+                class="button is-link is-large"
+            >
+                <span class="icon" style="margin-right: 0.5em;"><img src="/img/social/steam.svg" alt=""></span>
+                Ajoutez à votre wishlist sur Steam !
+            </a>
+        </div>
+    </div>
+</section>
+
+<section class="section">
 <div class="block container mb-6">
 <h3 class="title is-3">Rejoignez notre newsletter et obtenez un accès exclusif à notre version alpha !</h3>
 
@@ -39,7 +53,7 @@ Abonnez-vous à notre newsletter et vous recevrez un accès exclusif à la versi
     <div class="columns">
         <div class="column content">
             <h3 class="title is-3">Gameplay</h3>
-            <p>Dawnmaker est un jeu de stratégie solo qui mélange des éléments de jeu de plateau et de deck builder. Construisez des bâtiments, améliorez votre deck de cartes et repoussez le Smog toxique qui a envahi le monde.</p>
+            <p>Dawnmaker est un jeu de construction de colonie et de gestion de ressources. Créez des combinaisons puissantes entre vos bâtiments et vos cartes, rallumez les anciens phares et ramenez la vie sur le continent perdu.</p>
         </div>
         <div class="column content">
             <h3 class="title is-3">Features</h3>
