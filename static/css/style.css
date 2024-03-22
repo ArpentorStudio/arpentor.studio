@@ -189,3 +189,17 @@ body > footer .social-network-links li img {
 .dawnmaker-banner .dawnmaker-title {
     font-size: 8rem;
 }
+
+/* Newsletter form */
+.newsletter-form {
+    margin: 2em 0;
+}
+
+.newsletter-form input {
+    background-color: hsl(0, 0%, 90%);
+    color: hsl(0, 0%, 10%);
+}
+
+.newsletter-form input::placeholder {
+    color: hsl(0, 0%, 10%);
+}

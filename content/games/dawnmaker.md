@@ -43,8 +43,30 @@ menu:
 <div class="block container mb-6">
 <h3 class="title is-3">Join our newsletter and receive exclusive access to our alpha version!</h3>
 
-<iframe src="https://arpentor.substack.com/embed" width="100%" height="150" style="border:2px solid #333; background:white;" frameborder="0" scrolling="no"></iframe>
-
+<form
+    action="https://app.audienceful.com/api/subscribe/DBVmEioUWtpaivvS5aTnvK/"
+    method="post"
+    target="_blank"
+    class="newsletter-form"
+>
+    <div class="field has-addons has-addons-centered">
+        <div class="control">
+            <input
+                class="input is-large"
+                name="email"
+                type="email"
+                id="email"
+                placeholder="Type your email…"
+                required
+            />
+        </div>
+        <div class="control">
+            <button type="submit" class="button is-large is-danger"><span>Subscribe</span></button>
+        </div>
+    </div>
+    <!--blocks spam signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b28-ft" tabindex="-1" value=""></div>
+</form>
 
 Sign up to our newsletter and you’ll receive an exclusive access to the current alpha version of Dawnmaker. Every other month, you will learn more about the development of Dawnmaker and be notified about new versions, playtests and upcoming events!
 </div>
