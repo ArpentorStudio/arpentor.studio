@@ -26,50 +26,25 @@ menu:
 </section>
 
 <section class="section">
-    <div class="container level">
-        <div class="level-item">
-            <a
-                href="https://store.steampowered.com/app/2749100?utm_source=arpentor.studio"
-                class="button is-link is-large"
+    <div class="container">
+        <figure class="image is-16by9">
+            <iframe
+                width="100%"
+                height="100%"
+                class="has-ratio"
+                src="https://www.youtube.com/embed/gJpfUVW-IWo?si=3jLYWrErHLGWmyCA"
+                title="YouTube video player"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin"
+                allowfullscreen
             >
-                <span class="icon" style="margin-right: 0.5em;"><img src="/img/social/steam.svg" alt=""></span>
-                Wishlist now on Steam!
-            </a>
-        </div>
+            </iframe>
+        </figure>
     </div>
 </section>
 
 <section class="section">
-<div class="block container mb-6">
-<h3 class="title is-3">Join our newsletter and receive exclusive access to our alpha version!</h3>
-
-<form
-    action="https://app.audienceful.com/api/subscribe/DBVmEioUWtpaivvS5aTnvK/"
-    method="post"
-    target="_blank"
-    class="newsletter-form"
->
-    <div class="field has-addons has-addons-centered">
-        <div class="control">
-            <input
-                class="input is-large"
-                name="email"
-                type="email"
-                id="email"
-                placeholder="Type your email…"
-                required
-            />
-        </div>
-        <div class="control">
-            <button type="submit" class="button is-large is-danger"><span>Subscribe</span></button>
-        </div>
-    </div>
-    <!--blocks spam signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b28-ft" tabindex="-1" value=""></div>
-</form>
-
-Sign up to our newsletter and you’ll receive an exclusive access to the current alpha version of Dawnmaker. Every other month, you will learn more about the development of Dawnmaker and be notified about new versions, playtests and upcoming events!
-</div>
 
 <div class="container block mb-6">
     <div class="columns">
@@ -89,12 +64,59 @@ Sign up to our newsletter and you’ll receive an exclusive access to the curren
     </div>
 </div>
 
+<div class="container block mb-6">
+    <div class="columns">
+        <div class="column">
+            <h3 class="title is-3">Join our newsletter and receive exclusive access to our alpha version!</h3>
+            <form
+                action="https://app.audienceful.com/api/subscribe/DBVmEioUWtpaivvS5aTnvK/"
+                method="post"
+                target="_blank"
+                class="newsletter-form"
+            >
+                <div class="field has-addons has-addons-centered">
+                    <div class="control">
+                        <input
+                            class="input is-large"
+                            name="email"
+                            type="email"
+                            id="email"
+                            placeholder="Type your email…"
+                            required
+                        />
+                    </div>
+                    <div class="control">
+                        <button type="submit" class="button is-large is-danger"><span>Subscribe</span></button>
+                    </div>
+                </div>
+                <!--blocks spam signups-->
+                <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b28-ft" tabindex="-1" value=""></div>
+            </form>
+            <p>Sign up to our newsletter and you’ll receive an exclusive access to the current alpha version of Dawnmaker. Every other month, you will learn more about the development of Dawnmaker and be notified about new versions, playtests and upcoming events!</p>
+        </div>
+        <div class="column has-text-centered">
+            <a
+                href="https://store.steampowered.com/app/2749100?utm_source=arpentor.studio"
+                class="button is-link is-large"
+            >
+                <span class="icon" style="margin-right: 0.5em;"><img src="/img/social/steam.svg" alt=""></span>
+                Wishlist now on Steam!
+            </a>
+        </div>
+    </div>
+</div>
+
 <div class="block container mb-6">
     <h3 class="title is-3">Screenshots</h3>
     <div class="columns is-multiline">
         <div class="column is-full">
             <a href="/img/dawnmaker/screenshot-en-01.png" target="_blank">
                 <img src="/img/dawnmaker/screenshot-en-01.png">
+            </a>
+        </div>
+        <div class="column is-half">
+            <a href="/img/dawnmaker/screenshot-en-03.png" target="_blank">
+                <img src="/img/dawnmaker/screenshot-en-03.png">
             </a>
         </div>
         <div class="column is-half">
@@ -108,15 +130,95 @@ Sign up to our newsletter and you’ll receive an exclusive access to the curren
             </a>
         </div>
         <div class="column is-half">
-            <a href="/img/dawnmaker/screenshot-en-03.png" target="_blank">
-                <img src="/img/dawnmaker/screenshot-en-03.png">
-            </a>
-        </div>
-        <div class="column is-half">
             <a href="/img/dawnmaker/screenshot-en-05.png" target="_blank">
                 <img src="/img/dawnmaker/screenshot-en-05.png">
             </a>
         </div>
     </div>
 </div>
+
+<div class="block container mb-6">
+    <h3 class="title is-3">Presskit</h3>
+    <h4 class="title is-4">Capsule and key art</h4>
+    <div class="columns is-multiline">
+        <div class="column is-full">
+            <a href="/img/dawnmaker/capsule.png" target="_blank">
+                <img src="/img/dawnmaker/capsule.png">
+            </a>
+        </div>
+        <div class="column">
+            <a href="/img/dawnmaker/key-art-with-title.png" target="_blank">
+                <img src="/img/dawnmaker/key-art-with-title.png">
+            </a>
+        </div>
+        <div class="column">
+            <a href="/img/dawnmaker/key-art.png" target="_blank">
+                <img src="/img/dawnmaker/key-art.png">
+            </a>
+        </div>
+    </div>
+    <h4 class="title is-4">Assets</h4>
+    <div class="columns is-multiline">
+        <div class="column">
+            <a href="/img/dawnmaker/buildings.png" target="_blank">
+                <img src="/img/dawnmaker/buildings.png" class="checkerboard-back">
+            </a>
+        </div>
+        <div class="column">
+            <a href="/img/dawnmaker/aerostation.png" target="_blank">
+                <img src="/img/dawnmaker/aerostation.png" class="checkerboard-back">
+            </a>
+        </div>
+        <div class="column">
+            <a href="/img/dawnmaker/airship.png" target="_blank">
+                <img src="/img/dawnmaker/airship.png" class="checkerboard-back">
+            </a>
+        </div>
+    </div>
+    <h4 class="title is-4">Branding</h4>
+    <div class="columns is-multiline">
+        <div class="column is-half">
+            <a href="/img/dawnmaker/logo-dawnmaker-black.svg" target="_blank">
+                <img src="/img/dawnmaker/logo-dawnmaker-black.svg" class="checkerboard-back">
+            </a>
+        </div>
+        <div class="column is-half">
+            <a href="/img/dawnmaker/logo-dawnmaker-white.png" target="_blank">
+                <img src="/img/dawnmaker/logo-dawnmaker-white.png" class="checkerboard-back">
+            </a>
+        </div>
+        <div class="column is-one-third">
+            <a href="/img/dawnmaker/logo-arpentor-studio.svg" target="_blank">
+                <img src="/img/dawnmaker/logo-arpentor-studio.svg" class="checkerboard-back">
+            </a>
+        </div>
+    </div>
+    <h4 class="title is-4">Factsheet</h4>
+    <div class="columns">
+        <div class="column is-one-quarter content">
+            <h5 class="title is-5">Game</h5>
+            <p><a href="https://store.steampowered.com/app/2749100/Dawnmaker/">Dawnmaker</a></p>
+            <h5 class="title is-5">Status</h5>
+            <p>Coming soon</p>
+            <h5 class="title is-5">Developer</h5>
+            <p>Arpentor Studio
+            <br>Based in Lyon, France</p>
+            <h5 class="title is-5">Social networks</h5>
+            <p>
+                <a href="https://twitter.com/arpentorstudio"><img src="/img/social/twitter.png" class="icon"> Twitter</a>
+                /
+                <a href="https://www.instagram.com/arpentorstudio/"><img src="/img/social/instagram.png" class="icon"> Instagram</a>
+            </p>
+            <h5 class="title is-5">Genres</h5>
+            <p>Strategy / Deckbuilder / City Builder / Resource Management</p>
+        </div>
+        <div class="column content">
+            <h5 class="title is-5">Pitch</h5>
+            <p>Dawnmaker is a turn-based colony builder and resource management game. Create powerful combinations between your buildings and cards, rekindle the old lighthouses and bring life back to the lost continent.</p>
+            <h5 class="title is-5">About the developer</h5>
+            <p>Arpentor Studio is a workers-owned company creating video games and based in Lyon, France.  We specialize in creating games that make you think, learn and grow.</p>
+        </div>
+    </div>
+</div>
+
 </section>
