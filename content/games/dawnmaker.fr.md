@@ -51,7 +51,7 @@ menu:
     <div class="columns">
         <div class="column content">
             <h3 class="title is-3">Gameplay</h3>
-            <p>Dawnmaker est un jeu de construction de colonie et de gestion de ressources. Créez des combinaisons puissantes entre vos bâtiments et vos cartes, rallumez les anciens phares et ramenez la vie sur le continent perdu.</p>
+            <p>Dawnmaker est un jeu en tour par tour de construction de cité et de construction de deck, créé par deux fans de stratégie. Bâtissez des cités lumineuses, optimisez votre deck et créez des combos puissantes entre bâtiments et cartes pour ramener la vie dans un monde mort. </p>
         </div>
         <div class="column content">
             <h3 class="title is-3">Features</h3>
@@ -95,10 +95,10 @@ menu:
             </form>
             <p>Abonnez-vous à notre newsletter et vous recevrez un accès exclusif à la version alpha actuelle de Dawnmaker. Un mois sur deux, vous en apprendrez plus sur le développement de Dawnmaker et serez informé⋅e des nouvelles versions, des playtests et des événements à venir !</p>
         </div>
-        <div class="column has-text-centered">
+        <div class="column is-flex is-align-items-center is-justify-content-center">
             <a
                 href="https://store.steampowered.com/app/2749100?utm_source=arpentor.studio"
-                class="button is-link is-large"
+                class="button is-info is-large"
             >
                 <span class="icon" style="margin-right: 0.5em;"><img src="/img/social/steam.svg" alt=""></span>
                 Ajoutez à votre wishlist sur Steam !
@@ -116,18 +116,28 @@ menu:
             </a>
         </div>
         <div class="column is-half">
+            <a href="/img/dawnmaker/screenshot-fr-06.jpg" target="_blank">
+                <img src="/img/dawnmaker/screenshot-fr-06.jpg">
+            </a>
+        </div>
+        <div class="column is-half">
             <a href="/img/dawnmaker/screenshot-fr-03.png" target="_blank">
                 <img src="/img/dawnmaker/screenshot-fr-03.png">
             </a>
         </div>
         <div class="column is-half">
-            <a href="/img/dawnmaker/screenshot-fr-02.png" target="_blank">
-                <img src="/img/dawnmaker/screenshot-fr-02.png">
+            <a href="/img/dawnmaker/screenshot-fr-02.jpg" target="_blank">
+                <img src="/img/dawnmaker/screenshot-fr-02.jpg">
             </a>
         </div>
         <div class="column is-half">
-            <a href="/img/dawnmaker/screenshot-fr-04.png" target="_blank">
-                <img src="/img/dawnmaker/screenshot-fr-04.png">
+            <a href="/img/dawnmaker/screenshot-fr-07.jpg" target="_blank">
+                <img src="/img/dawnmaker/screenshot-fr-07.jpg">
+            </a>
+        </div>
+        <div class="column is-half">
+            <a href="/img/dawnmaker/screenshot-fr-04.jpg" target="_blank">
+                <img src="/img/dawnmaker/screenshot-fr-04.jpg">
             </a>
         </div>
         <div class="column is-half">
@@ -147,14 +157,19 @@ menu:
                 <img src="/img/dawnmaker/capsule.png">
             </a>
         </div>
+        <div class="column is-full">
+            <a href="/img/dawnmaker/key-art.png" target="_blank">
+                <img src="/img/dawnmaker/key-art.png">
+            </a>
+        </div>
         <div class="column">
             <a href="/img/dawnmaker/key-art-with-title.png" target="_blank">
                 <img src="/img/dawnmaker/key-art-with-title.png">
             </a>
         </div>
         <div class="column">
-            <a href="/img/dawnmaker/key-art.png" target="_blank">
-                <img src="/img/dawnmaker/key-art.png">
+            <a href="/img/dawnmaker/capsule-no-title.png" target="_blank">
+                <img src="/img/dawnmaker/capsule-no-title.png">
             </a>
         </div>
     </div>
@@ -215,7 +230,7 @@ menu:
         </div>
         <div class="column content">
             <h5 class="title is-5">Pitch</h5>
-            <p>Dawnmaker est un jeu de construction de colonie et de gestion de ressources. Créez des combinaisons puissantes entre vos bâtiments et vos cartes, rallumez les anciens phares et ramenez la vie sur le continent perdu.</p>
+            <p>Dawnmaker est un jeu en tour par tour de construction de cité et de construction de deck qui se joue comme un jeu de plateau solo. Bâtissez des cités lumineuses, optimisez votre deck et créez des combos puissantes entre bâtiments et cartes pour ramener la vie dans un monde mort. </p>
             <h5 class="title is-5">À propos du développeur</h5>
             <p>Arpentor Studio est une entreprise coopérative de création de jeux vidéo. Nous nous spécialisons dans la création de jeux qui font cogiter, apprendre et s’élever.</p>
         </div>

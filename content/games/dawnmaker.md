@@ -50,7 +50,7 @@ menu:
     <div class="columns">
         <div class="column content">
             <h3 class="title is-3">Gameplay</h3>
-            <p>Dawnmaker is a turn-based colony builder and resource management game. Create powerful combinations between your buildings and cards, rekindle the old lighthouses and bring life back to the lost continent.</p>
+            <p>Dawnmaker is a turn-based city building and deckbuilding game, made by 2 strategy fans. It feels like playing a solo board game. Build luminous cities, optimize your deck and create powerful combinations between buildings and cards to bring life back to a dead world.</p>
         </div>
         <div class="column content">
             <h3 class="title is-3">Features</h3>
@@ -94,10 +94,10 @@ menu:
             </form>
             <p>Sign up to our newsletter and you’ll receive an exclusive access to the current alpha version of Dawnmaker. Every other month, you will learn more about the development of Dawnmaker and be notified about new versions, playtests and upcoming events!</p>
         </div>
-        <div class="column has-text-centered">
+        <div class="column is-flex is-align-items-center is-justify-content-center">
             <a
                 href="https://store.steampowered.com/app/2749100?utm_source=arpentor.studio"
-                class="button is-link is-large"
+                class="button is-info is-large"
             >
                 <span class="icon" style="margin-right: 0.5em;"><img src="/img/social/steam.svg" alt=""></span>
                 Wishlist now on Steam!
@@ -115,18 +115,28 @@ menu:
             </a>
         </div>
         <div class="column is-half">
+            <a href="/img/dawnmaker/screenshot-en-06.jpg" target="_blank">
+                <img src="/img/dawnmaker/screenshot-en-06.jpg">
+            </a>
+        </div>
+        <div class="column is-half">
             <a href="/img/dawnmaker/screenshot-en-03.png" target="_blank">
                 <img src="/img/dawnmaker/screenshot-en-03.png">
             </a>
         </div>
         <div class="column is-half">
-            <a href="/img/dawnmaker/screenshot-en-02.png" target="_blank">
-                <img src="/img/dawnmaker/screenshot-en-02.png">
+            <a href="/img/dawnmaker/screenshot-en-02.jpg" target="_blank">
+                <img src="/img/dawnmaker/screenshot-en-02.jpg">
             </a>
         </div>
         <div class="column is-half">
-            <a href="/img/dawnmaker/screenshot-en-04.png" target="_blank">
-                <img src="/img/dawnmaker/screenshot-en-04.png">
+            <a href="/img/dawnmaker/screenshot-en-07.jpg" target="_blank">
+                <img src="/img/dawnmaker/screenshot-en-07.jpg">
+            </a>
+        </div>
+        <div class="column is-half">
+            <a href="/img/dawnmaker/screenshot-en-04.jpg" target="_blank">
+                <img src="/img/dawnmaker/screenshot-en-04.jpg">
             </a>
         </div>
         <div class="column is-half">
@@ -146,14 +156,19 @@ menu:
                 <img src="/img/dawnmaker/capsule.png">
             </a>
         </div>
+        <div class="column is-full">
+            <a href="/img/dawnmaker/key-art.png" target="_blank">
+                <img src="/img/dawnmaker/key-art.png">
+            </a>
+        </div>
         <div class="column">
             <a href="/img/dawnmaker/key-art-with-title.png" target="_blank">
                 <img src="/img/dawnmaker/key-art-with-title.png">
             </a>
         </div>
         <div class="column">
-            <a href="/img/dawnmaker/key-art.png" target="_blank">
-                <img src="/img/dawnmaker/key-art.png">
+            <a href="/img/dawnmaker/capsule-no-title.png" target="_blank">
+                <img src="/img/dawnmaker/capsule-no-title.png">
             </a>
         </div>
     </div>
@@ -214,7 +229,7 @@ menu:
         </div>
         <div class="column content">
             <h5 class="title is-5">Pitch</h5>
-            <p>Dawnmaker is a turn-based colony builder and resource management game. Create powerful combinations between your buildings and cards, rekindle the old lighthouses and bring life back to the lost continent.</p>
+            <p>Dawnmaker is a turn-based city building and deckbuilding game that feels like playing a solo board game. Build luminous cities, optimize your deck and create powerful combinations between buildings and cards to bring life back to a dead world.</p>
             <h5 class="title is-5">About the developer</h5>
             <p>Arpentor Studio is a workers-owned company creating video games and based in Lyon, France.  We specialize in creating games that make you think, learn and grow.</p>
         </div>
