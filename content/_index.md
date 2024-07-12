@@ -12,7 +12,7 @@ description: Arpentor Studio is a workers-owned company creating video games. We
             </a>
         </h1>
         <h2 class="subtitle has-text-light">
-            Build your deck. Optimize your cities. Bring life back to the lost continent.
+            Build your cities. Optimize your deck. Bring life back to a dead world.
         </h2>
     </div>
 </section>

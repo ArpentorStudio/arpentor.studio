@@ -12,7 +12,7 @@ description: Arpentor Studio est une entreprise coopérative de création de jeu
             </a>
         </h1>
         <h2 class="subtitle has-text-light">
-            Construisez votre deck. Optimisez vos cités. Ramenez la vie sur le continent perdu.
+            Construisez vos cités. Optimisez votre deck. Ramenez la vie dans un monde mort.
         </h2>
     </div>
 </section>

@@ -21,7 +21,7 @@ menu:
             Dawn<wbr>maker
         </h1>
         <h2 class="subtitle has-text-light">
-            Construisez votre deck. Optimisez vos cités. Ramenez la vie sur le continent perdu.
+            Construisez vos cités. Optimisez votre deck. Ramenez la vie dans un monde mort.
         </h2>
     </div>
 </section>
@@ -33,7 +33,7 @@ menu:
                 width="100%"
                 height="100%"
                 class="has-ratio"
-                src="https://www.youtube.com/embed/gJpfUVW-IWo?si=3jLYWrErHLGWmyCA"
+                src="https://www.youtube.com/embed/NlU3PrmOLUo?si=KyPS-SpETgELwv7F"
                 title="YouTube video player"
                 frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -126,13 +126,13 @@ menu:
             </a>
         </div>
         <div class="column is-half">
-            <a href="/img/dawnmaker/screenshot-fr-02.jpg" target="_blank">
-                <img src="/img/dawnmaker/screenshot-fr-02.jpg">
+            <a href="/img/dawnmaker/screenshot-fr-05.png" target="_blank">
+                <img src="/img/dawnmaker/screenshot-fr-05.png">
             </a>
         </div>
         <div class="column is-half">
-            <a href="/img/dawnmaker/screenshot-fr-07.jpg" target="_blank">
-                <img src="/img/dawnmaker/screenshot-fr-07.jpg">
+            <a href="/img/dawnmaker/screenshot-fr-07.png" target="_blank">
+                <img src="/img/dawnmaker/screenshot-fr-07.png">
             </a>
         </div>
         <div class="column is-half">
@@ -141,8 +141,8 @@ menu:
             </a>
         </div>
         <div class="column is-half">
-            <a href="/img/dawnmaker/screenshot-fr-05.png" target="_blank">
-                <img src="/img/dawnmaker/screenshot-fr-05.png">
+            <a href="/img/dawnmaker/screenshot-fr-02.jpg" target="_blank">
+                <img src="/img/dawnmaker/screenshot-fr-02.jpg">
             </a>
         </div>
     </div>

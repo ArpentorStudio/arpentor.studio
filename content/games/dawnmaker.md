@@ -20,7 +20,7 @@ menu:
             Dawn<wbr>maker
         </h1>
         <h2 class="subtitle has-text-light">
-            Build your deck. Optimize your cities. Bring life back to the lost continent.
+            Build your cities. Optimize your deck. Bring life back to a dead world.
         </h2>
     </div>
 </section>
@@ -32,7 +32,7 @@ menu:
                 width="100%"
                 height="100%"
                 class="has-ratio"
-                src="https://www.youtube.com/embed/gJpfUVW-IWo?si=3jLYWrErHLGWmyCA"
+                src="https://www.youtube.com/embed/NlU3PrmOLUo?si=KyPS-SpETgELwv7F"
                 title="YouTube video player"
                 frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -125,13 +125,13 @@ menu:
             </a>
         </div>
         <div class="column is-half">
-            <a href="/img/dawnmaker/screenshot-en-02.jpg" target="_blank">
-                <img src="/img/dawnmaker/screenshot-en-02.jpg">
+            <a href="/img/dawnmaker/screenshot-en-05.png" target="_blank">
+                <img src="/img/dawnmaker/screenshot-en-05.png">
             </a>
         </div>
         <div class="column is-half">
-            <a href="/img/dawnmaker/screenshot-en-07.jpg" target="_blank">
-                <img src="/img/dawnmaker/screenshot-en-07.jpg">
+            <a href="/img/dawnmaker/screenshot-en-07.png" target="_blank">
+                <img src="/img/dawnmaker/screenshot-en-07.png">
             </a>
         </div>
         <div class="column is-half">
@@ -140,8 +140,8 @@ menu:
             </a>
         </div>
         <div class="column is-half">
-            <a href="/img/dawnmaker/screenshot-en-05.png" target="_blank">
-                <img src="/img/dawnmaker/screenshot-en-05.png">
+            <a href="/img/dawnmaker/screenshot-en-02.jpg" target="_blank">
+                <img src="/img/dawnmaker/screenshot-en-02.jpg">
             </a>
         </div>
     </div>
