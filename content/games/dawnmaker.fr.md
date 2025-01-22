@@ -68,7 +68,7 @@ menu:
 <div class="container block mb-6">
     <div class="columns">
         <div class="column">
-            <h3 class="title is-3">Rejoignez notre newsletter et obtenez un accès exclusif à notre version alpha !</h3>
+            <h3 class="title is-3">Rejoignez notre newsletter !</h3>
             <form
                 action="https://app.audienceful.com/api/subscribe/DBVmEioUWtpaivvS5aTnvK/"
                 method="post"
@@ -93,16 +93,23 @@ menu:
                 <!--blocks spam signups-->
                 <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b28-ft" tabindex="-1" value=""></div>
             </form>
-            <p>Abonnez-vous à notre newsletter et vous recevrez un accès exclusif à la version alpha actuelle de Dawnmaker. Un mois sur deux, vous en apprendrez plus sur le développement de Dawnmaker et serez informé⋅e des nouvelles versions, des playtests et des événements à venir !</p>
+            <p>Abonnez-vous à la newsletter d’Arpentor ! Un email tous les deux mois environ, pas de spam, mais des aperçus du développement de nos jeux et un accès aux versions préliminaires de nos futurs projets.</p>
         </div>
-        <div class="column is-flex is-align-items-center is-justify-content-center">
-            <a
+        <div class="column has-text-centered">
+            <div class="block"><a
                 href="https://store.steampowered.com/app/2749100?utm_source=arpentor.studio"
                 class="button is-info is-large"
             >
                 <span class="icon" style="margin-right: 0.5em;"><img src="/img/social/steam.svg" alt=""></span>
-                Ajoutez à votre wishlist sur Steam !
-            </a>
+                Achetez maintenant sur Steam
+            </a></div>
+            <div class="block"><a
+                href="https://arpentor.itch.io/dawnmaker"
+                class="button is-success is-large"
+            >
+                <span class="icon" style="margin-right: 0.5em;"><img src="/img/social/itch.svg" alt=""></span>
+                Achetez maintenant sur itch.io
+            </a></div>
         </div>
     </div>
 </div>
@@ -221,7 +228,7 @@ menu:
             <br>Basé à Lyon, France</p>
             <h5 class="title is-5">Réseaux sociaux</h5>
             <p>
-                <a href="https://twitter.com/arpentorstudio"><img src="/img/social/twitter.png" class="icon"> Twitter</a>
+                <a href="https://www.youtube.com/channel/UC5O0siehXk70Qp112X5M0Ag"><img src="/img/social/youtube.png" class="icon"> YouTube</a>
                 /
                 <a href="https://www.instagram.com/arpentorstudio/"><img src="/img/social/instagram.png" class="icon"> Instagram</a>
             </p>
