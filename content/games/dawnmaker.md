@@ -7,13 +7,13 @@ summary: Dawnmaker is a solo strategy game where you build your deck, optimize y
 
 menu:
     main:
-        weight: 11
+        weight: 12
     footer:
         identifier: "dawnmaker"
-        weight: 11
+        weight: 12
 ---
 
-<section class="hero is-fullheight dawnmaker-banner">
+<section class="hero is-fullheight banner dawnmaker-banner">
     <div class="hero-body"></div>
     <div class="hero-foot">
         <h1 class="title dawnmaker-title">

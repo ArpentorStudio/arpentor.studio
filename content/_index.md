@@ -3,12 +3,12 @@ title: "Home"
 description: Arpentor Studio is a workers-owned company creating video games. We make games that make you think, learn and grow.
 ---
 
-<section class="hero is-halfheight dawnmaker-banner home-banner">
+<section class="hero is-halfheight banner home-banner">
     <div class="hero-body"></div>
     <div class="hero-foot">
-        <h1 class="title dawnmaker-title">
-            <a href={{< ref "games/dawnmaker">}}>
-                Dawnmaker
+        <h1 class="title spiritus-title">
+            <a href={{< ref "games/spiritus">}}>
+                Corpus et Spiritus
             </a>
         </h1>
         <h2 class="subtitle has-text-light">
@@ -22,20 +22,7 @@ description: Arpentor Studio is a workers-owned company creating video games. We
 
 <h2 class="title is-2">We create games</h2>
 
-<strong>Arpentor Studio</strong> is a workers-owned company creating video games and based in Lyon, France. We emphasize cooperation in order to create a work environment that is inclusive, caring and creative. Our goal is to create <strong>games that make you think, learn and grow</strong>. There are currently two of us:
-
-<ul class="employees">
-    <li>
-        <img src="/img/portraits/Adrian.png" alt="Portrait de Adrian Gaudebert">
-        <span class="name">Adrian Gaudebert</span>
-        <span>Programmer and Game Designer</span>
-    </li>
-    <li>
-        <img src="/img/portraits/Alexis.png" alt="Portrait de Alexis Caroff">
-        <span class="name">Alexis Caroff</span>
-        <span>Art Director and Narrative Designer</span>
-    </li>
-</ul>
+<strong>Arpentor Studio</strong> is a workers-owned company creating video games and based in Lyon, France. We emphasize cooperation in order to create a work environment that is inclusive, caring and creative. Our goal is to create <strong>games that make you think, learn and grow</strong>.
 </div>
 
 <div class="container mb-6">

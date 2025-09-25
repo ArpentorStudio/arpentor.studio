@@ -3,12 +3,12 @@ title: "Home"
 description: Arpentor Studio est une entreprise coopérative de création de jeux vidéo. Nous créons des jeux qui font cogiter, apprendre et s’élever.
 ---
 
-<section class="hero is-halfheight dawnmaker-banner home-banner">
+<section class="hero is-halfheight banner home-banner">
     <div class="hero-body"></div>
     <div class="hero-foot">
-        <h1 class="title dawnmaker-title">
-            <a href={{< ref "games/dawnmaker">}}>
-                Dawnmaker
+        <h1 class="title spiritus-title">
+            <a href={{< ref "games/spiritus">}}>
+                Corpus et Spiritus
             </a>
         </h1>
         <h2 class="subtitle has-text-light">
@@ -22,20 +22,7 @@ description: Arpentor Studio est une entreprise coopérative de création de jeu
 
 <h2 class="title is-2">Nous créons des jeux</h2>
 
-<strong>Arpentor Studio</strong> est une entreprise coopérative de création de jeux vidéo. Nous mettons l’accent sur la coopération afin de créer un environnement de travail inclusif, tolérant et créatif. Notre objectif est de <strong>créer des jeux qui font cogiter, apprendre et s’élever</strong>. Nous sommes actuellement deux personnes :
-
-<ul class="employees">
-    <li>
-        <img src="/img/portraits/Adrian.png" alt="Portrait de Adrian Gaudebert">
-        <span class="name">Adrian Gaudebert</span>
-        <span>Programmeur et Game Designer</span>
-    </li>
-    <li>
-        <img src="/img/portraits/Alexis.png" alt="Portrait de Alexis Caroff">
-        <span class="name">Alexis Caroff</span>
-        <span>Directeur Artistique et Narrative Designer</span>
-    </li>
-</ul>
+<strong>Arpentor Studio</strong> est une entreprise coopérative de création de jeux vidéo. Nous mettons l’accent sur la coopération afin de créer un environnement de travail inclusif, tolérant et créatif. Notre objectif est de <strong>créer des jeux qui font cogiter, apprendre et s’élever</strong>.
 </div>
 
 <div class="container mb-6">
