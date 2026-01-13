@@ -66,8 +66,8 @@ The best way to reach us is to send us an email!
 
 You can also find us on social media:
 
-- on Instagram: [arpentorstudio](https://www.instagram.com/arpentorstudio/)
-- on Facebook: [Arpentor Studio](https://www.facebook.com/Arpentor-Studio-100396392569735)
 - on YouTube: [Arpentor Studio](https://www.youtube.com/channel/UC5O0siehXk70Qp112X5M0Ag)
+- on LinkedIn: [Arpentor Studio](https://www.linkedin.com/company/arpentor/)
+- on Mastodon: [Adrian’s personal account](https://tutut.delire.party/@adngdb)
 
 </section>
