@@ -1,0 +1,58 @@
+{
+    "ui_font_size": 16,
+    "buffer_font_family": "Hermit",
+    "buffer_font_size": 14,
+    "minimap": {
+        "show": "always",
+        "current_line_highlight": "all"
+    },
+    "git": {
+        "inline_blame": {
+            "enabled": false
+        }
+    },
+    "tab_size": 4,
+    "languages": {
+        "TypeScript": {
+            "code_actions_on_format": {
+                "source.organizeImports": true,
+                "source.fixAll.eslint": false
+            },
+            "prettier": {
+                "allowed": false
+            },
+            "formatter": "auto"
+        },
+        "JavaScript": {
+            "code_actions_on_format": {
+                "source.organizeImports": true,
+                "source.fixAll.eslint": false
+            },
+            "prettier": {
+                "allowed": false
+            },
+            "formatter": "language_server"
+        }
+    },
+    "format_on_save": "off",
+    "soft_wrap": "editor_width",
+    "file_scan_exclusions": [
+        "**/.git",
+        "**/.svn",
+        "**/.hg",
+        "**/.jj",
+        "**/CVS",
+        "**/.DS_Store",
+        "**/Thumbs.db",
+        "**/.classpath",
+        "**/.settings",
+        "**/*.svg",
+        "**/*.png",
+        "**/*.jpg",
+        "**/*.webp",
+        "**/*.ico",
+        "**/*.riv",
+        "**/*.flac",
+        "**/*.ogg"
+    ]
+}
