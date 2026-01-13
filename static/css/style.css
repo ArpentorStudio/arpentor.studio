@@ -173,13 +173,12 @@ body > footer .social-network-links li img {
 }
 
 /* Main banner */
-.home-banner,
 .spiritus-banner {
-    background-image: url(/img/spiritus/key-art-no-title.jpg);
+    background-image: url(/img/spiritus/capsule.jpg);
 }
 
-.spiritus-banner.home-banner {
-    background-image: url(/img/spiritus/key-art-slim.png);
+.home-banner {
+    background-image: url(/img/spiritus/library_hero_1.jpg);
 }
 
 /* CORPUS ET SPIRITUS */

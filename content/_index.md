@@ -12,7 +12,7 @@ description: Arpentor Studio is a workers-owned company creating video games. We
             </a>
         </h1>
         <h2 class="subtitle has-text-light">
-            Build your cities. Optimize your deck. Bring life back to a dead world.
+            You signed a pact with a Homunculus, and it was a bad idea…
         </h2>
     </div>
 </section>
@@ -20,7 +20,7 @@ description: Arpentor Studio is a workers-owned company creating video games. We
 <section class="section">
 <div class="block container mb-6">
 
-<h2 class="title is-2">We create games</h2>
+<h2 class="title is-2">We create strategy games</h2>
 
 <strong>Arpentor Studio</strong> is a workers-owned company creating video games and based in Lyon, France. We emphasize cooperation in order to create a work environment that is inclusive, caring and creative. Our goal is to create <strong>games that make you think, learn and grow</strong>.
 </div>
@@ -89,20 +89,21 @@ description: Arpentor Studio is a workers-owned company creating video games. We
 </div>
 </div>
 
-<div class="block container phytomancer-home-content">
+<div class="block container">
 
-<h2 class="title is-2">We co-created Phytomancer</h2>
+<h2 class="title is-2">Here are our games</h2>
 
-[Phytomancer](https://daydreel.itch.io/phytomancer) is the first game that we’ve created and sold, along with [Ana Maria de Jesus](https://www.artstation.com/jesuslovesyou), [Alexis Saler](https://www.fossilrecords.fr/) and [Daydreel](https://daydreel.itch.io/). It’s a strategy game in which you will defend nature against the invasion of pollution. Plant magic seeds to clean a cell up, grow a sturdy tree or accelerate the propagation of grass. Surround the polluting factories with nature to bring balance back to the world. The game contains 10 levels of increasing difficulty and is [available for 3€ on itch.io](https://daydreel.itch.io/phytomancer).
-
-[Presskit](http://adrian.gaudebert.fr/en/phytomancer/)
-
-<br />
-
-{{< youtube f3PmBE5yqig >}}
-
-<div class="itch-io-widget">
-    <iframe src="https://itch.io/embed/1185198" width="552" height="167" frameborder="0"><a href="https://daydreel.itch.io/phytomancer">Phytomancer by Daydreel, alexis.saler, Akaroff, adngdb</a></iframe>
+<div class="columns">
+    <div class="column is-half">
+        <a href={{< ref "games/spiritus">}}>
+            <img src="/img/spiritus/capsule.jpg" alt="Corpus et Spiritus">
+        </a>
+    </div>
+    <div class="column is-half">
+        <a href={{< ref "games/dawnmaker">}}>
+            <img src="/img/dawnmaker/capsule_hd.jpg" alt="Dawnmaker">
+        </a>
+    </div>
 </div>
 
 </div>

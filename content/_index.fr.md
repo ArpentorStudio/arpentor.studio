@@ -12,7 +12,7 @@ description: Arpentor Studio est une entreprise coopérative de création de jeu
             </a>
         </h1>
         <h2 class="subtitle has-text-light">
-            Construisez vos cités. Optimisez votre deck. Ramenez la vie dans un monde mort.
+            Vous avez signé un pacte avec un Homoncule, et c'était une mauvaise idée…
         </h2>
     </div>
 </section>
@@ -20,7 +20,7 @@ description: Arpentor Studio est une entreprise coopérative de création de jeu
 <section class="section">
 <div class="block container mb-6">
 
-<h2 class="title is-2">Nous créons des jeux</h2>
+<h2 class="title is-2">Nous créons des jeux de stratégie</h2>
 
 <strong>Arpentor Studio</strong> est une entreprise coopérative de création de jeux vidéo. Nous mettons l’accent sur la coopération afin de créer un environnement de travail inclusif, tolérant et créatif. Notre objectif est de <strong>créer des jeux qui font cogiter, apprendre et s’élever</strong>.
 </div>
@@ -89,20 +89,21 @@ description: Arpentor Studio est une entreprise coopérative de création de jeu
 </div>
 </div>
 
-<div class="block container phytomancer-home-content">
+<div class="block container">
 
-<h2 class="title is-2">Nous avons co-créé Phytomancer</h2>
+<h2 class="title is-2">Voici nos jeux</h2>
 
-[Phytomancer](https://daydreel.itch.io/phytomancer) est le premier jeu que nous avons créé et commercialisé, en compagnie d’[Ana Maria de Jesus](https://www.artstation.com/jesuslovesyou), [Alexis Saler](https://www.fossilrecords.fr/) et [Daydreel](https://daydreel.itch.io/). C’est un jeu de stratégie dans lequel vous devez défendre la nature contre l’invasion de la pollution. Plantez des graines magiques pour dépolluer une case, faire grandir un arbre résistant ou accélérer la propagation de l’herbe, et entourez les usines polluantes de nature pour rétablir l’équilibre. Le jeu se déroule sur 10 niveaux à la difficulté croissante et est [disponible pour 3€ sur itch.io](https://daydreel.itch.io/phytomancer).
-
-[Dossier de presse](http://adrian.gaudebert.fr/phytomancer/)
-
-<br />
-
-{{< youtube f3PmBE5yqig >}}
-
-<div class="itch-io-widget">
-    <iframe src="https://itch.io/embed/1185198" width="552" height="167" frameborder="0"><a href="https://daydreel.itch.io/phytomancer">Phytomancer par Daydreel, alexis.saler, Akaroff, adngdb</a></iframe>
+<div class="columns">
+    <div class="column is-half">
+        <a href={{< ref "games/spiritus">}}>
+            <img src="/img/spiritus/capsule.jpg" alt="Corpus et Spiritus">
+        </a>
+    </div>
+    <div class="column is-half">
+        <a href={{< ref "games/dawnmaker">}}>
+            <img src="/img/dawnmaker/capsule.png" alt="Dawnmaker">
+        </a>
+    </div>
 </div>
 
 </div>

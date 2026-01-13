@@ -15,33 +15,6 @@ menu:
 
 <section class="hero is-fullheight banner spiritus-banner">
     <div class="hero-body"></div>
-    <div class="hero-foot">
-        <h1 class="title spiritus-title">
-            Corpus et Spiritus
-        </h1>
-        <h2 class="subtitle has-text-light">
-            Build your cities. Optimize your deck. Bring life back to a dead world.
-        </h2>
-    </div>
-</section>
-
-<section class="section">
-    <div class="container">
-        <figure class="image is-16by9">
-            <iframe
-                width="100%"
-                height="100%"
-                class="has-ratio"
-                src="https://www.youtube.com/embed/NlU3PrmOLUo?si=KyPS-SpETgELwv7F"
-                title="YouTube video player"
-                frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                referrerpolicy="strict-origin-when-cross-origin"
-                allowfullscreen
-            >
-            </iframe>
-        </figure>
-    </div>
 </section>
 
 <section class="section">
@@ -50,15 +23,15 @@ menu:
     <div class="columns">
         <div class="column content">
             <h3 class="title is-3">Gameplay</h3>
-            <p>Dawnmaker is a turn-based city building and deckbuilding game, made by 2 strategy fans. It feels like playing a solo board game. Build luminous cities, optimize your deck and create powerful combinations between buildings and cards to bring life back to a dead world.</p>
+            <p><strong>Corpus et Spiritus</strong> is a <em>roguelite deckbuilder</em> without combat. You signed a pact with a Homunculus: it will guide you on the path of alchemy, but at the cost of your life force. Use your workshop to craft new cards, transmute metals and discover magical talismans. Become smarter than your dangerous partner and break out of the pact before it kills you!</p>
         </div>
         <div class="column content">
             <h3 class="title is-3">Features</h3>
             <ul>
-                <li><strong>Reclaim the lost continent</strong> — The continent of Heksiga has been covered by a toxic Smog. Repair and improve magical lighthouses to repel that Smog and reclaim the land, region by region.</li>
-                <li><strong>Build efficient cities</strong> — Make the best of your limited space by optimally positioning your buildings. Improve your lighthouse to repel the Smog and expand your city.</li>
-                <li><strong>Manage your resources</strong> — Grow farms, build industries, develop science and inspire your people to create the rarest of resources: Éclairium!</li>
-                <li><strong>Recover lost technologies</strong> — Explore vestiges of the old Empire and rediscover technologies that were lost to the Smog.</li>
+                <li><strong>Control randomness</strong> — Use your workshop to create cards and magical talismans. The metals you insert impact its output.</li>
+                <li><strong>Assemble powerful combos</strong> — Cards and talismans combine to create increasingly strong effects.</li>
+                <li><strong>Sacrifice with care</strong> — Progressing requires sacrifices: resources, cards, but also abilities. The bigger the sacrifice, the better the reward, but death will come faster.</li>
+                <li><strong>Manage your resources</strong> — Cards and actions; Metals; Knowledge to accumulate; Attributes to increase your powers… It’s all about resources!</li>
             </ul>
         </div>
     </div>
@@ -95,19 +68,19 @@ menu:
             <p>Subscribe to Arpentor's newsletter! One email about every other month, no spams, with insights on the development of our games and access to early versions of future projects.</p>
         </div>
         <div class="column has-text-centered">
-            <div class="block"><a
+            <!--<div class="block"><a
                 href="https://store.steampowered.com/app/2749100?utm_source=arpentor.studio"
                 class="button is-info is-large"
             >
                 <span class="icon" style="margin-right: 0.5em;"><img src="/img/social/steam.svg" alt=""></span>
-                Buy now on Steam
-            </a></div>
+                Wishlist now on Steam
+            </a></div>-->
             <div class="block"><a
-                href="https://arpentor.itch.io/dawnmaker"
+                href="https://arpentor.itch.io/corpus-et-spiritus"
                 class="button is-success is-large"
             >
                 <span class="icon" style="margin-right: 0.5em;"><img src="/img/social/itch.svg" alt=""></span>
-                Buy now on itch.io
+                Play the demo on itch.io
             </a></div>
         </div>
     </div>
@@ -117,38 +90,38 @@ menu:
     <h3 class="title is-3">Screenshots</h3>
     <div class="columns is-multiline">
         <div class="column is-full">
-            <a href="/img/dawnmaker/screenshot-en-01.png" target="_blank">
-                <img src="/img/dawnmaker/screenshot-en-01.png">
+            <a href="/img/spiritus/screenshots/en-1.webp" target="_blank">
+                <img src="/img/spiritus/screenshots/en-1.webp">
             </a>
         </div>
         <div class="column is-half">
-            <a href="/img/dawnmaker/screenshot-en-06.jpg" target="_blank">
-                <img src="/img/dawnmaker/screenshot-en-06.jpg">
+            <a href="/img/spiritus/screenshots/en-2.webp" target="_blank">
+                <img src="/img/spiritus/screenshots/en-2.webp">
             </a>
         </div>
         <div class="column is-half">
-            <a href="/img/dawnmaker/screenshot-en-03.png" target="_blank">
-                <img src="/img/dawnmaker/screenshot-en-03.png">
+            <a href="/img/spiritus/screenshots/en-3.webp" target="_blank">
+                <img src="/img/spiritus/screenshots/en-3.webp">
             </a>
         </div>
         <div class="column is-half">
-            <a href="/img/dawnmaker/screenshot-en-05.png" target="_blank">
-                <img src="/img/dawnmaker/screenshot-en-05.png">
+            <a href="/img/spiritus/screenshots/en-5.webp" target="_blank">
+                <img src="/img/spiritus/screenshots/en-5.webp">
             </a>
         </div>
         <div class="column is-half">
-            <a href="/img/dawnmaker/screenshot-en-07.png" target="_blank">
-                <img src="/img/dawnmaker/screenshot-en-07.png">
+            <a href="/img/spiritus/screenshots/en-4.webp" target="_blank">
+                <img src="/img/spiritus/screenshots/en-4.webp">
             </a>
         </div>
         <div class="column is-half">
-            <a href="/img/dawnmaker/screenshot-en-04.jpg" target="_blank">
-                <img src="/img/dawnmaker/screenshot-en-04.jpg">
+            <a href="/img/spiritus/screenshots/en-6.webp" target="_blank">
+                <img src="/img/spiritus/screenshots/en-6.webp">
             </a>
         </div>
         <div class="column is-half">
-            <a href="/img/dawnmaker/screenshot-en-02.jpg" target="_blank">
-                <img src="/img/dawnmaker/screenshot-en-02.jpg">
+            <a href="/img/spiritus/screenshots/en-7.webp" target="_blank">
+                <img src="/img/spiritus/screenshots/en-7.webp">
             </a>
         </div>
     </div>
@@ -156,57 +129,24 @@ menu:
 
 <div class="block container mb-6">
     <h3 class="title is-3">Presskit</h3>
-    <h4 class="title is-4">Capsule and key art</h4>
+    <h4 class="title is-4">Capsule</h4>
     <div class="columns is-multiline">
         <div class="column is-full">
-            <a href="/img/dawnmaker/capsule.png" target="_blank">
-                <img src="/img/dawnmaker/capsule.png">
+            <a href="/img/spiritus/capsule.jpg" target="_blank">
+                <img src="/img/spiritus/capsule.jpg">
             </a>
         </div>
         <div class="column is-full">
-            <a href="/img/dawnmaker/key-art.png" target="_blank">
-                <img src="/img/dawnmaker/key-art.png">
-            </a>
-        </div>
-        <div class="column">
-            <a href="/img/dawnmaker/key-art-with-title.png" target="_blank">
-                <img src="/img/dawnmaker/key-art-with-title.png">
-            </a>
-        </div>
-        <div class="column">
-            <a href="/img/dawnmaker/capsule-no-title.png" target="_blank">
-                <img src="/img/dawnmaker/capsule-no-title.png">
-            </a>
-        </div>
-    </div>
-    <h4 class="title is-4">Assets</h4>
-    <div class="columns is-multiline">
-        <div class="column">
-            <a href="/img/dawnmaker/buildings.png" target="_blank">
-                <img src="/img/dawnmaker/buildings.png" class="checkerboard-back">
-            </a>
-        </div>
-        <div class="column">
-            <a href="/img/dawnmaker/aerostation.png" target="_blank">
-                <img src="/img/dawnmaker/aerostation.png" class="checkerboard-back">
-            </a>
-        </div>
-        <div class="column">
-            <a href="/img/dawnmaker/airship.png" target="_blank">
-                <img src="/img/dawnmaker/airship.png" class="checkerboard-back">
+            <a href="/img/spiritus/capsule_no_title.jpg" target="_blank">
+                <img src="/img/spiritus/capsule_no_title.jpg">
             </a>
         </div>
     </div>
     <h4 class="title is-4">Branding</h4>
     <div class="columns is-multiline">
-        <div class="column is-half">
-            <a href="/img/dawnmaker/logo-dawnmaker-black.svg" target="_blank">
-                <img src="/img/dawnmaker/logo-dawnmaker-black.svg" class="checkerboard-back">
-            </a>
-        </div>
-        <div class="column is-half">
-            <a href="/img/dawnmaker/logo-dawnmaker-white.png" target="_blank">
-                <img src="/img/dawnmaker/logo-dawnmaker-white.png" class="checkerboard-back">
+        <div class="column is-two-thirds">
+            <a href="/img/spiritus/logo.png" target="_blank">
+                <img src="/img/spiritus/logo.png" class="checkerboard-back">
             </a>
         </div>
         <div class="column is-one-third">
@@ -215,11 +155,34 @@ menu:
             </a>
         </div>
     </div>
+    <h4 class="title is-4">Assets</h4>
+    <div class="columns is-multiline">
+        <div class="column is-two-thirds">
+            <a href="/img/spiritus/assets/main_homoncule_1.png" target="_blank">
+                <img src="/img/spiritus/assets/main_homoncule_1.png" class="checkerboard-back">
+            </a>
+        </div>
+        <div class="column is-one-third">
+            <a href="/img/spiritus/assets/workshop_transmutation.png" target="_blank">
+                <img src="/img/spiritus/assets/workshop_transmutation.png" class="checkerboard-back">
+            </a>
+        </div>
+        <div class="column is-one-third">
+            <a href="/img/spiritus/assets/workshop_cards.png" target="_blank">
+                <img src="/img/spiritus/assets/workshop_cards.png" class="checkerboard-back">
+            </a>
+        </div>
+        <div class="column is-two-thirds">
+            <a href="/img/spiritus/assets/workshop_talismans.png" target="_blank">
+                <img src="/img/spiritus/assets/workshop_talismans.png" class="checkerboard-back">
+            </a>
+        </div>
+    </div>
     <h4 class="title is-4">Factsheet</h4>
     <div class="columns">
         <div class="column is-one-quarter content">
             <h5 class="title is-5">Game</h5>
-            <p><a href="https://store.steampowered.com/app/2749100/Dawnmaker/">Dawnmaker</a></p>
+            <p><a href="https://store.steampowered.com/app/2749100/Dawnmaker/">Corpus et Spiritus</a></p>
             <h5 class="title is-5">Status</h5>
             <p>Coming soon</p>
             <h5 class="title is-5">Developer</h5>
@@ -228,15 +191,13 @@ menu:
             <h5 class="title is-5">Social networks</h5>
             <p>
                 <a href="https://www.youtube.com/channel/UC5O0siehXk70Qp112X5M0Ag"><img src="/img/social/youtube.png" class="icon"> YouTube</a>
-                /
-                <a href="https://www.instagram.com/arpentorstudio/"><img src="/img/social/instagram.png" class="icon"> Instagram</a>
             </p>
             <h5 class="title is-5">Genres</h5>
-            <p>Strategy / Deckbuilder / City Builder / Resource Management</p>
+            <p>Strategy / Deckbuilder / Resource Management</p>
         </div>
         <div class="column content">
             <h5 class="title is-5">Pitch</h5>
-            <p>Dawnmaker is a turn-based city building and deckbuilding game that feels like playing a solo board game. Build luminous cities, optimize your deck and create powerful combinations between buildings and cards to bring life back to a dead world.</p>
+            <p>Corpus et Spiritus is a roguelite deckbuilder without combat. You signed a pact with a Homunculus: it will guide you on the path of alchemy, but at the cost of your life force. Use your workshop to craft new cards, transmute metals and discover magical talismans. Become smarter than your dangerous partner and break out of the pact before it kills you!</p>
             <h5 class="title is-5">About the developer</h5>
             <p>Arpentor Studio is a workers-owned company creating video games and based in Lyon, France.  We specialize in creating games that make you think, learn and grow.</p>
         </div>
