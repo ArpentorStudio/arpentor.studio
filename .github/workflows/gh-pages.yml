@@ -16,6 +16,7 @@ jobs:
         uses: benmatselby/hugo-deploy-gh-pages@main
         env:
           HUGO_VERSION: 0.123.7
+          HUGO_EXTENDED: true
           TARGET_REPO: ArpentorStudio/arpentor.studio
           TARGET_BRANCH: gh-pages
           TOKEN: ${{ secrets.TOKEN }}
