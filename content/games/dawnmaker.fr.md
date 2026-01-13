@@ -96,21 +96,45 @@ menu:
             <p>Abonnez-vous à la newsletter d’Arpentor ! Un email tous les deux mois environ, pas de spam, mais des aperçus du développement de nos jeux et un accès aux versions préliminaires de nos futurs projets.</p>
         </div>
         <div class="column has-text-centered">
-            <div class="block"><a
-                href="https://store.steampowered.com/app/2749100?utm_source=arpentor.studio"
-                class="button is-info is-large"
-            >
-                <span class="icon" style="margin-right: 0.5em;"><img src="/img/social/steam.svg" alt=""></span>
-                Achetez maintenant sur Steam
-            </a></div>
-            <div class="block"><a
-                href="https://arpentor.itch.io/dawnmaker"
-                class="button is-success is-large"
-            >
-                <span class="icon" style="margin-right: 0.5em;"><img src="/img/social/itch.svg" alt=""></span>
-                Achetez maintenant sur itch.io
-            </a></div>
-        </div>
+            <h3 class="title is-3">Disponible sur :</h3>
+            <div>
+                <span>
+                    <a
+                        href="https://store.steampowered.com/app/2749100?utm_source=arpentor.studio"
+                        class="button is-warning is-large"
+                    >
+                        <span class="icon" style="margin-right: 0.5em;"><img src="/img/social/steam.svg" alt=""></span>
+                        Steam
+                    </a>
+                </span>
+                <span>
+                    <a
+                        href="https://arpentor.itch.io/dawnmaker"
+                        class="button is-info is-large"
+                    >
+                        <span class="icon" style="margin-right: 0.5em;"><img src="/img/social/itch.svg" alt=""></span>
+                        itch.io
+                    </a>
+                </span>
+                <span>
+                    <a
+                        href="https://apps.apple.com/us/app/dawnmaker/id6747272900"
+                        class="button is-warning is-large"
+                    >
+                        <span class="icon" style="margin-right: 0.5em;"><img src="/img/social/apple.svg" alt=""></span>
+                        iOS
+                    </a>
+                </span>
+                <span>
+                    <a
+                        href="https://play.google.com/store/apps/details?id=com.arpentor.dawnmaker"
+                        class="button is-info is-large"
+                    >
+                        <span class="icon" style="margin-right: 0.5em;"><img src="/img/social/android.svg" alt=""></span>
+                        Android
+                    </a>
+                </span>
+            </div>
     </div>
 </div>
 
@@ -222,15 +246,13 @@ menu:
             <h5 class="title is-5">Jeu</h5>
             <p><a href="https://store.steampowered.com/app/2749100/Dawnmaker/">Dawnmaker</a></p>
             <h5 class="title is-5">Statut</h5>
-            <p>À venir</p>
+            <p>Disponible sur Windows, Linux, Mac, iOS et Android</p>
             <h5 class="title is-5">Développeur</h5>
             <p>Arpentor Studio
             <br>Basé à Lyon, France</p>
             <h5 class="title is-5">Réseaux sociaux</h5>
             <p>
                 <a href="https://www.youtube.com/channel/UC5O0siehXk70Qp112X5M0Ag"><img src="/img/social/youtube.png" class="icon"> YouTube</a>
-                /
-                <a href="https://www.instagram.com/arpentorstudio/"><img src="/img/social/instagram.png" class="icon"> Instagram</a>
             </p>
             <h5 class="title is-5">Genres</h5>
             <p>Stratégie / Deckbuilder / City Builder / Gestion de ressources</p>
