@@ -1,10 +1,10 @@
 ---
 title: "Corpus et Spiritus"
 url: "jeux/spiritus"
-date: 2026-01-12T10:00:00+02:00
-featured_image: /img/spiritus/key-art.png
-description: 
-summary: 
+date: 2026-02-02T15:00:00+02:00
+featured_image: /img/spiritus/capsule.jpg
+description: Corpus et Spiritus est un deckbuilder d’alchimie sans combat. Vous avez signé un pacte avec un Homoncule, et c’était une mauvaise idée… Utilisez votre atelier pour créer de nouvelles cartes, transmuter des métaux et découvrir des talismans magiques. Devenez plus intelligent que votre dangereux partenaire et libérez-vous du pacte avant qu’il ne vous tue !
+summary: Corpus et Spiritus est un deckbuilder d’alchimie sans combat.
 
 menu:
     main:
@@ -16,6 +16,25 @@ menu:
 
 <section class="hero is-fullheight banner spiritus-banner">
     <div class="hero-body"></div>
+</section>
+
+<section class="section">
+    <div class="container">
+        <figure class="image is-16by9">
+            <iframe
+                width="100%"
+                height="100%"
+                class="has-ratio"
+                src="https://www.youtube.com/embed/iwyI47dczVg?si=tCms0j7HT03Xy7GR"
+                title="YouTube video player"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin"
+                allowfullscreen
+            >
+            </iframe>
+        </figure>
+    </div>
 </section>
 
 <section class="section">
@@ -69,13 +88,13 @@ menu:
             <p>Abonnez-vous à la newsletter d’Arpentor ! Un email tous les deux mois environ, pas de spam, mais des aperçus du développement de nos jeux et un accès aux versions préliminaires de nos futurs projets.</p>
         </div>
         <div class="column has-text-centered">
-            <!--<div class="block"><a
-                href="https://store.steampowered.com/app/2749100?utm_source=arpentor.studio"
+            <div class="block"><a
+                href="https://store.steampowered.com/app/4225280/Corpus_et_Spiritus/?utm_source=arpentor.studio"
                 class="button is-info is-large"
             >
                 <span class="icon" style="margin-right: 0.5em;"><img src="/img/social/steam.svg" alt=""></span>
-                Wishlist now on Steam
-            </a></div>-->
+                Ajoutez à votre wishlist sur Steam
+            </a></div>
             <div class="block"><a
                 href="https://arpentor.itch.io/corpus-et-spiritus"
                 class="button is-success is-large"
@@ -183,7 +202,7 @@ menu:
     <div class="columns">
         <div class="column is-one-quarter content">
             <h5 class="title is-5">Jeu</h5>
-            <p><a href="https://store.steampowered.com//">Corpus et Spiritus</a></p>
+            <p><a href="https://store.steampowered.com/app/4225280/Corpus_et_Spiritus/?utm_source=arpentor.studio">Corpus et Spiritus</a></p>
             <h5 class="title is-5">Status</h5>
             <p>À venir</p>
             <h5 class="title is-5">Développeur</h5>
@@ -191,7 +210,7 @@ menu:
             <br>Basé à Lyon, France</p>
             <h5 class="title is-5">Réseaux sociaux</h5>
             <p>
-                <a href="https://www.youtube.com/channel/UC5O0siehXk70Qp112X5M0Ag"><img src="/img/social/youtube.png" class="icon"> YouTube</a>
+                <a href="https://www.youtube.com/@arpentorstudio7535"><img src="/img/social/youtube.png" class="icon"> YouTube</a>
             </p>
             <h5 class="title is-5">Genres</h5>
             <p>Stratégie / Deckbuilder / Gestion de ressources</p>

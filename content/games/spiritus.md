@@ -1,9 +1,9 @@
 ---
 title: "Corpus et Spiritus"
-date: 2025-09-25T14:56:10+02:00
-featured_image: /img/dawnmaker/key-art.png
-description: Dawnmaker a is solo strategy game combining board game and deck building elements. Raise buildings, improve your deck of cards and repel the toxic Smog which took over the world.
-summary: Dawnmaker is a solo strategy game where you build your deck, optimize your cities and bring life back to the lost continent.
+date: 2026-02-02T15:00:00+02:00
+featured_image: /img/spiritus/capsule.jpg
+description: Corpus et Spiritus is an alchemy deckbuilder without combat. You signed a pact with a Homunculus, and it was a bad idea… Use your workshop to craft new cards, transmute metals and discover magical talismans. Become smarter than your dangerous partner before it kills you!
+summary: Corpus et Spiritus is an alchemy deckbuilder without combat.
 
 menu:
     main:
@@ -15,6 +15,25 @@ menu:
 
 <section class="hero is-fullheight banner spiritus-banner">
     <div class="hero-body"></div>
+</section>
+
+<section class="section">
+    <div class="container">
+        <figure class="image is-16by9">
+            <iframe
+                width="100%"
+                height="100%"
+                class="has-ratio"
+                src="https://www.youtube.com/embed/iwyI47dczVg?si=tCms0j7HT03Xy7GR"
+                title="YouTube video player"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin"
+                allowfullscreen
+            >
+            </iframe>
+        </figure>
+    </div>
 </section>
 
 <section class="section">
@@ -68,13 +87,13 @@ menu:
             <p>Subscribe to Arpentor's newsletter! One email about every other month, no spams, with insights on the development of our games and access to early versions of future projects.</p>
         </div>
         <div class="column has-text-centered">
-            <!--<div class="block"><a
-                href="https://store.steampowered.com/app/2749100?utm_source=arpentor.studio"
+            <div class="block"><a
+                href="https://store.steampowered.com/app/4225280/Corpus_et_Spiritus/?utm_source=arpentor.studio"
                 class="button is-info is-large"
             >
                 <span class="icon" style="margin-right: 0.5em;"><img src="/img/social/steam.svg" alt=""></span>
                 Wishlist now on Steam
-            </a></div>-->
+            </a></div>
             <div class="block"><a
                 href="https://arpentor.itch.io/corpus-et-spiritus"
                 class="button is-success is-large"
@@ -182,7 +201,7 @@ menu:
     <div class="columns">
         <div class="column is-one-quarter content">
             <h5 class="title is-5">Game</h5>
-            <p><a href="https://store.steampowered.com/app/2749100/Dawnmaker/">Corpus et Spiritus</a></p>
+            <p><a href="https://store.steampowered.com/app/4225280/Corpus_et_Spiritus/?utm_source=arpentor.studio">Corpus et Spiritus</a></p>
             <h5 class="title is-5">Status</h5>
             <p>Coming soon</p>
             <h5 class="title is-5">Developer</h5>
@@ -190,7 +209,7 @@ menu:
             <br>Based in Lyon, France</p>
             <h5 class="title is-5">Social networks</h5>
             <p>
-                <a href="https://www.youtube.com/channel/UC5O0siehXk70Qp112X5M0Ag"><img src="/img/social/youtube.png" class="icon"> YouTube</a>
+                <a href="https://www.youtube.com/@arpentorstudio7535"><img src="/img/social/youtube.png" class="icon"> YouTube</a>
             </p>
             <h5 class="title is-5">Genres</h5>
             <p>Strategy / Deckbuilder / Resource Management</p>
