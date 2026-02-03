@@ -148,7 +148,20 @@ menu:
 </div>
 
 <div class="block container mb-6">
-    <h3 class="title is-3">Dossier de presse</h3>
+    <div class="level">
+        <div class="level-right">
+            <h3 class="title is-3">Dossier de presse</h3>
+        </div>
+        <div class="level-left">
+            <a
+                href="https://adrian.gaudebert.fr/downloads/arpentor/Presskit%20Corpus%20et%20Spiritus.zip"
+                target="_blank"
+                class="button is-danger is-large"
+            >
+                Télécharger le Dossier de presse
+            </a>
+        </div>
+    </div>
     <h4 class="title is-4">Capsule</h4>
     <div class="columns is-multiline">
         <div class="column is-full">
