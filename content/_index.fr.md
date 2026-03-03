@@ -101,7 +101,7 @@ description: Arpentor Studio est une entreprise coopérative de création de jeu
     </div>
     <div class="column is-half">
         <a href={{< ref "games/dawnmaker">}}>
-            <img src="/img/dawnmaker/capsule.png" alt="Dawnmaker">
+            <img src="/img/dawnmaker/capsule_hd.jpg" alt="Dawnmaker">
         </a>
     </div>
 </div>
