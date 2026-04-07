@@ -119,6 +119,16 @@ menu:
             </a>
         </div>
         <div class="column is-half">
+            <a href="/img/spiritus/screenshots/en-8.webp" target="_blank">
+                <img src="/img/spiritus/screenshots/en-8.webp">
+            </a>
+        </div>
+        <div class="column is-half">
+            <a href="/img/spiritus/screenshots/en-6.webp" target="_blank">
+                <img src="/img/spiritus/screenshots/en-6.webp">
+            </a>
+        </div>
+        <div class="column is-half">
             <a href="/img/spiritus/screenshots/en-3.webp" target="_blank">
                 <img src="/img/spiritus/screenshots/en-3.webp">
             </a>
@@ -126,16 +136,6 @@ menu:
         <div class="column is-half">
             <a href="/img/spiritus/screenshots/en-5.webp" target="_blank">
                 <img src="/img/spiritus/screenshots/en-5.webp">
-            </a>
-        </div>
-        <div class="column is-half">
-            <a href="/img/spiritus/screenshots/en-4.webp" target="_blank">
-                <img src="/img/spiritus/screenshots/en-4.webp">
-            </a>
-        </div>
-        <div class="column is-half">
-            <a href="/img/spiritus/screenshots/en-6.webp" target="_blank">
-                <img src="/img/spiritus/screenshots/en-6.webp">
             </a>
         </div>
         <div class="column is-half">
