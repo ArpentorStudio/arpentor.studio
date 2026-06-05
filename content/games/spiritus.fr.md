@@ -16,6 +16,11 @@ menu:
 
 <section class="hero is-fullheight banner spiritus-banner">
     <div class="hero-body"></div>
+    <div class="hero-foot">
+        <h2 class="title is-2 has-text-light">
+            <em>Le Deckbuilder d’Alchimie</em>
+        </h2>
+    </div>
 </section>
 
 <section class="section">

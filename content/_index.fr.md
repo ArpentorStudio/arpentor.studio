@@ -12,20 +12,33 @@ description: Arpentor Studio est une entreprise coopérative de création de jeu
             </a>
         </h1>
         <h2 class="subtitle has-text-light">
-            Vous avez signé un pacte avec un Homoncule, et c'était une mauvaise idée…
+            Le Deckbuilder d’Alchimie
         </h2>
     </div>
 </section>
 
 <section class="section">
-<div class="block container mb-6">
-
+<div class="container mb-6">
 <h2 class="title is-2">Nous créons des jeux de stratégie</h2>
 
-<strong>Arpentor Studio</strong> est une entreprise coopérative de création de jeux vidéo. Nous mettons l’accent sur la coopération afin de créer un environnement de travail inclusif, tolérant et créatif. Notre objectif est de <strong>créer des jeux qui font cogiter, apprendre et s’élever</strong>.
+<p class="block"><strong>Arpentor Studio</strong> est une entreprise coopérative de création de jeux vidéo. Nous mettons l’accent sur la coopération afin de créer un environnement de travail inclusif, tolérant et créatif. Notre objectif est de <strong>créer des jeux qui font cogiter, apprendre et s’élever</strong>.</p>
+
+<div class="columns">
+    <div class="column is-half">
+        <a href={{< ref "games/spiritus">}} class="home-game-link">
+            <img src="/img/spiritus/capsule.jpg" alt="Corpus et Spiritus">
+        </a>
+    </div>
+    <div class="column is-half">
+        <a href={{< ref "games/dawnmaker">}} class="home-game-link">
+            <img src="/img/dawnmaker/capsule_hd.jpg" alt="Dawnmaker">
+        </a>
+    </div>
 </div>
 
-<div class="container mb-6">
+</div>
+
+<div class="container">
 
 <h2 class="title is-2">Nous ne faisons pas de compromis sur nos valeurs</h2>
 
@@ -87,24 +100,5 @@ description: Arpentor Studio est une entreprise coopérative de création de jeu
             </div>
         </div>
 </div>
-</div>
-
-<div class="block container">
-
-<h2 class="title is-2">Voici nos jeux</h2>
-
-<div class="columns">
-    <div class="column is-half">
-        <a href={{< ref "games/spiritus">}}>
-            <img src="/img/spiritus/capsule.jpg" alt="Corpus et Spiritus">
-        </a>
-    </div>
-    <div class="column is-half">
-        <a href={{< ref "games/dawnmaker">}}>
-            <img src="/img/dawnmaker/capsule_hd.jpg" alt="Dawnmaker">
-        </a>
-    </div>
-</div>
-
 </div>
 </section>
